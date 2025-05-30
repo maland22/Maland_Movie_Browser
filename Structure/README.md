@@ -2,7 +2,7 @@
 - Movies Components:
   - Data Display: 
     - Normal view: id, poster_url, title, release_date, genre, director, actors[], rating, description, duration, addFav
-    - Detailed view: id, poster_url ,title, release_date, genre, director, actors[], rating, description, duration , reviews[], budget, country, language, addFav
+    - Detailed view: id ,movie_title, release_date, movie_genre, director, actors[], rating, description, duration , reviews[], budget, country, language, addFav
 - Data from: 
   - Send all data requests to:http://www.omdbapi.com/?apikey=[yourkey]&
   - Poster API requests: http://img.omdbapi.com/?apikey=[yourkey]&
