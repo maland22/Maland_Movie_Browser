@@ -1,0 +1,12 @@
+# Movies Browsers 
+- Movies Components:
+  - Data Display: 
+    - Normal view: id, poster_url, title, release_date, genre, director, actors[], rating, description, duration, addFav
+    - Detailed view: id, poster_url ,title, release_date, genre, director, actors[], rating, description, duration , reviews[], budget, country, language, addFav
+- Data from: 
+  - Send all data requests to:http://www.omdbapi.com/?apikey=[yourkey]&
+  - Poster API requests: http://img.omdbapi.com/?apikey=[yourkey]&
+- Display: 
+  - Navbar is for the search, drop down, write, radio buttons etc.
+  - First you see a list full of Movies then you can click on one and get the detailed list of movies
+  - Add favourite films to a list.
