@@ -1,0 +1,4812 @@
+[
+  {
+    "id": 1,
+    "movie_title": "Prepare agency",
+    "release_date": "2018-02-12",
+    "movie_genre": "Comedy",
+    "director": "Debra Leon",
+    "actors": [
+      "Cynthia Garcia",
+      "Phillip Gray",
+      "Steven Phillips",
+      "Ian Griffin",
+      "Jason Martinez"
+    ],
+    "rating": 7.2,
+    "description": "Civil nothing order rock their. Traditional show they others stand itself else poor. Your guess piece.",
+    "duration": 168,
+    "reviews": [
+      "Audience focus year hold.",
+      "Behavior win light much its."
+    ],
+    "budget": 186570126,
+    "country": "France",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 2,
+    "movie_title": "Send main policy",
+    "release_date": "2022-01-16",
+    "movie_genre": "Action",
+    "director": "George Edwards",
+    "actors": [
+      "Donna Sanders",
+      "Brandy Kelley",
+      "Joseph Campbell"
+    ],
+    "rating": 8.1,
+    "description": "Little author give fast early. That at significant change spend road. Maybe school air now point remain.",
+    "duration": 147,
+    "reviews": [
+      "Those near car your throw remember not town."
+    ],
+    "budget": 71506637,
+    "country": "UK",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 3,
+    "movie_title": "Again contain",
+    "release_date": "2016-05-08",
+    "movie_genre": "Action",
+    "director": "Jonathan Ward",
+    "actors": [
+      "Laura Ellis",
+      "Ellen Evans",
+      "Mary Jones",
+      "Robin Munoz"
+    ],
+    "rating": 5.6,
+    "description": "Budget small budget. Table design activity month. Wall poor no month follow animal single.",
+    "duration": 172,
+    "reviews": [
+      "Best son their design someone bit."
+    ],
+    "budget": 159738734,
+    "country": "Germany",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 4,
+    "movie_title": "Ago Congress",
+    "release_date": "2023-06-10",
+    "movie_genre": "Drama",
+    "director": "Norma Richardson",
+    "actors": [
+      "Carmen Walter",
+      "Jason Martinez",
+      "Austin Smith",
+      "Ian Griffin"
+    ],
+    "rating": 4.0,
+    "description": "Reveal natural size movie talk well.\nDinner contain if official past stuff money easy. Course arm style. Challenge thing discuss director political.",
+    "duration": 93,
+    "reviews": [
+      "Leader two wrong time tough."
+    ],
+    "budget": 157755523,
+    "country": "Japan",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 5,
+    "movie_title": "Word machine market teacher",
+    "release_date": "2017-07-29",
+    "movie_genre": "Horror",
+    "director": "Gregory Nixon",
+    "actors": [
+      "Steven Phillips",
+      "Phillip Gray",
+      "Cynthia Garcia"
+    ],
+    "rating": 4.0,
+    "description": "Cultural hard big almost. Standard church turn discover money.",
+    "duration": 108,
+    "reviews": [
+      "Girl remain just individual assume.",
+      "Actually body less area near middle.",
+      "Wrong sit word.",
+      "Author seat since rather because."
+    ],
+    "budget": 99958148,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 6,
+    "movie_title": "Whole",
+    "release_date": "2019-12-29",
+    "movie_genre": "Fantasy",
+    "director": "Pedro Taylor",
+    "actors": [
+      "Spencer Jones",
+      "Alexander Olson"
+    ],
+    "rating": 3.4,
+    "description": "Laugh girl research interest apply event. Practice arrive network series option marriage. Any indicate total institution. Relate glass black.",
+    "duration": 128,
+    "reviews": [
+      "Deep by support professional difference wife.",
+      "Free teacher cell front language some."
+    ],
+    "budget": 86117522,
+    "country": "UK",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 7,
+    "movie_title": "Social more always",
+    "release_date": "2024-11-17",
+    "movie_genre": "Romance",
+    "director": "Sally Stout DDS",
+    "actors": [
+      "Deanna Myers",
+      "Ronald Bender",
+      "Robin Munoz",
+      "Donald Rose"
+    ],
+    "rating": 7.3,
+    "description": "Ready attack threat tough whom can whose long. Material power wear quite expect.\nInterview after seek join. Cold different inside huge time.",
+    "duration": 112,
+    "reviews": [
+      "Idea write continue she.",
+      "Actually agent senior smile bag term."
+    ],
+    "budget": 68965910,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 8,
+    "movie_title": "Water lose",
+    "release_date": "2019-01-21",
+    "movie_genre": "Thriller",
+    "director": "Victoria Crawford",
+    "actors": [
+      "Joseph Campbell",
+      "James Dunlap",
+      "Laura Martin"
+    ],
+    "rating": 4.7,
+    "description": "Radio customer imagine consider plant spring east. Treat may few move.",
+    "duration": 102,
+    "reviews": [
+      "Decide skin likely manage film behind interest water."
+    ],
+    "budget": 170803894,
+    "country": "Canada",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 9,
+    "movie_title": "Within instead stock west",
+    "release_date": "2022-08-27",
+    "movie_genre": "Action",
+    "director": "Joanne Ford",
+    "actors": [
+      "Michelle Anderson",
+      "James Dunlap",
+      "Maureen Brown",
+      "Pedro Alexander",
+      "Tyler Graham"
+    ],
+    "rating": 7.9,
+    "description": "Also college front father lay plant.\nWar what throw resource parent. Around same add than yourself.",
+    "duration": 166,
+    "reviews": [
+      "Go pattern already.",
+      "Guy who owner she into.",
+      "Mrs this record debate little care money appear.",
+      "Environmental foot under give all capital beautiful."
+    ],
+    "budget": 7460783,
+    "country": "South Korea",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 10,
+    "movie_title": "Gas report",
+    "release_date": "2016-11-30",
+    "movie_genre": "Fantasy",
+    "director": "Tracy Jones",
+    "actors": [
+      "Erica Hawkins",
+      "Eric Anthony"
+    ],
+    "rating": 6.5,
+    "description": "Trial final once father approach. Your network between find.\nAgo figure police situation machine nearly stand. Medical report since spend.",
+    "duration": 145,
+    "reviews": [
+      "Once ahead adult various wind defense offer.",
+      "Attention law stage share officer speak election.",
+      "Everyone hold but send rule.",
+      "Process and agency similar name."
+    ],
+    "budget": 170019508,
+    "country": "Germany",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 11,
+    "movie_title": "Parent",
+    "release_date": "2023-05-12",
+    "movie_genre": "Fantasy",
+    "director": "Rebecca Hanna",
+    "actors": [
+      "Laura Bradley",
+      "Loretta Peterson",
+      "Michelle Anderson"
+    ],
+    "rating": 4.6,
+    "description": "Line strong bag suddenly. Still market challenge final activity.",
+    "duration": 97,
+    "reviews": [
+      "Happy agreement station."
+    ],
+    "budget": 106811759,
+    "country": "Germany",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 12,
+    "movie_title": "Performance each",
+    "release_date": "2015-09-24",
+    "movie_genre": "Horror",
+    "director": "Emily French",
+    "actors": [
+      "Sara King",
+      "Eric Anthony"
+    ],
+    "rating": 5.7,
+    "description": "Industry fill their prepare public. Office easy kind society fight. Similar among big audience stand smile.",
+    "duration": 153,
+    "reviews": [
+      "Own increase according race produce team.",
+      "Any executive space require carry language."
+    ],
+    "budget": 181597363,
+    "country": "USA",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 13,
+    "movie_title": "People share building",
+    "release_date": "2024-04-26",
+    "movie_genre": "Thriller",
+    "director": "George Shelton",
+    "actors": [
+      "Jennifer Thomas",
+      "Eric Anthony",
+      "Phillip Gray",
+      "Terri Howard",
+      "Elizabeth Jackson"
+    ],
+    "rating": 5.9,
+    "description": "Body green front successful career build. Smile city camera share threat team rock truth. Gas reach free size.",
+    "duration": 95,
+    "reviews": [
+      "Think game region throughout necessary character something.",
+      "None evening represent.",
+      "Democrat magazine federal only."
+    ],
+    "budget": 75545301,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 14,
+    "movie_title": "Sit source job",
+    "release_date": "2016-12-25",
+    "movie_genre": "Romance",
+    "director": "Adam Deleon",
+    "actors": [
+      "Deanna Myers",
+      "Juan Munoz",
+      "Donna Sanders",
+      "Donald Rose"
+    ],
+    "rating": 7.7,
+    "description": "Little new sell brother.\nLikely feel authority what employee. Truth later cover citizen. Fine grow what big.",
+    "duration": 94,
+    "reviews": [
+      "Teach spend great risk."
+    ],
+    "budget": 87017768,
+    "country": "USA",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 15,
+    "movie_title": "Sister not friend",
+    "release_date": "2016-09-02",
+    "movie_genre": "Horror",
+    "director": "Matthew Friedman",
+    "actors": [
+      "Robin Munoz",
+      "Spencer Jones",
+      "Victoria Schultz",
+      "Mr. Robert Bishop"
+    ],
+    "rating": 4.3,
+    "description": "Owner second serve expect organization chance last. Information student thank media but themselves. None fight pass statement pass level body reveal.",
+    "duration": 125,
+    "reviews": [
+      "Us activity military movie leg continue require figure.",
+      "Whole head skin some its like.",
+      "Onto road sister each throw high ten.",
+      "Either interest I fly attorney never."
+    ],
+    "budget": 38165774,
+    "country": "Japan",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 16,
+    "movie_title": "Place job",
+    "release_date": "2024-06-05",
+    "movie_genre": "Romance",
+    "director": "Caitlin Roberts",
+    "actors": [
+      "Michael Skinner",
+      "Spencer Jones",
+      "Laura Ellis",
+      "Elizabeth Jackson"
+    ],
+    "rating": 5.5,
+    "description": "Else foreign today somebody. Establish resource affect.\nThan chair audience foreign.",
+    "duration": 148,
+    "reviews": [
+      "On threat personal level decade.",
+      "Pass environment artist picture daughter.",
+      "Manager similar carry might."
+    ],
+    "budget": 30228892,
+    "country": "Germany",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 17,
+    "movie_title": "Throw",
+    "release_date": "2022-12-14",
+    "movie_genre": "Drama",
+    "director": "Dawn Miller",
+    "actors": [
+      "Phillip Gray",
+      "Kaylee Reed"
+    ],
+    "rating": 5.4,
+    "description": "Understand to plan yes share. Pm affect laugh shoulder politics police.",
+    "duration": 145,
+    "reviews": [
+      "While gun call."
+    ],
+    "budget": 75555678,
+    "country": "Canada",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 18,
+    "movie_title": "Amount measure development",
+    "release_date": "2024-11-30",
+    "movie_genre": "Thriller",
+    "director": "Andrew Davis",
+    "actors": [
+      "Terri Howard",
+      "Virginia Bell"
+    ],
+    "rating": 9.1,
+    "description": "Relationship method window area key one whether. Office will right article every near.",
+    "duration": 116,
+    "reviews": [
+      "Follow floor water professional leave."
+    ],
+    "budget": 129147988,
+    "country": "South Korea",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 19,
+    "movie_title": "Letter employee prevent",
+    "release_date": "2022-05-15",
+    "movie_genre": "Fantasy",
+    "director": "Matthew Coleman",
+    "actors": [
+      "Joseph Campbell",
+      "Christopher Deleon"
+    ],
+    "rating": 8.4,
+    "description": "Space person risk. Worry after present ten.\nColor hotel record choose network approach. Standard capital send beyond. Rather church safe thus dog.",
+    "duration": 113,
+    "reviews": [
+      "Share act make my reveal tend.",
+      "Time exactly policy because."
+    ],
+    "budget": 42419392,
+    "country": "Canada",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 20,
+    "movie_title": "Claim toward",
+    "release_date": "2018-04-09",
+    "movie_genre": "Thriller",
+    "director": "Sherri Pacheco",
+    "actors": [
+      "Benjamin Daniel",
+      "Antonio Brown"
+    ],
+    "rating": 4.9,
+    "description": "Project while only employee everything. Describe large find religious indeed. Activity dinner against tree benefit loss office.",
+    "duration": 111,
+    "reviews": [
+      "Direction recent benefit best agree.",
+      "Green knowledge understand marriage body out enter.",
+      "Way order production organization sound follow.",
+      "Watch financial national."
+    ],
+    "budget": 103236258,
+    "country": "Japan",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 21,
+    "movie_title": "Into image foreign",
+    "release_date": "2017-07-12",
+    "movie_genre": "Drama",
+    "director": "Jeanne Williamson",
+    "actors": [
+      "Laura Bradley",
+      "Tyler Graham"
+    ],
+    "rating": 8.3,
+    "description": "Lot every stuff very sound these. Degree model financial president reflect prevent. Allow I four management include they cup.",
+    "duration": 128,
+    "reviews": [
+      "Never free start myself but half.",
+      "Future Mrs reality interest west."
+    ],
+    "budget": 94478338,
+    "country": "Canada",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 22,
+    "movie_title": "Far evidence",
+    "release_date": "2017-07-16",
+    "movie_genre": "Action",
+    "director": "Martin Young",
+    "actors": [
+      "James Dunlap",
+      "Eric Anthony",
+      "Erica Hawkins",
+      "Austin Smith"
+    ],
+    "rating": 9.1,
+    "description": "Fill every media far. Church seat reason management keep safe run.\nTo government my give debate maintain. Dream eat month at.",
+    "duration": 169,
+    "reviews": [
+      "Tend spend TV kid.",
+      "Series research voice friend opportunity worker.",
+      "Call hold until clear finally degree."
+    ],
+    "budget": 174332241,
+    "country": "UK",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 23,
+    "movie_title": "Third high simply",
+    "release_date": "2023-08-12",
+    "movie_genre": "Drama",
+    "director": "Julia Rodriguez",
+    "actors": [
+      "Mr. Robert Bishop",
+      "Carmen Walter",
+      "Laura Bradley"
+    ],
+    "rating": 8.0,
+    "description": "Well clear add cell agent upon Mrs. Expert speak music indicate glass present consider. Any painting understand tree total system professional.",
+    "duration": 124,
+    "reviews": [
+      "To increase until official.",
+      "Most amount sense inside seat."
+    ],
+    "budget": 12350915,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 24,
+    "movie_title": "Board heart",
+    "release_date": "2020-11-30",
+    "movie_genre": "Thriller",
+    "director": "Jesse Sheppard",
+    "actors": [
+      "Ashley Hughes",
+      "Eric Anthony",
+      "Tyler Graham"
+    ],
+    "rating": 5.7,
+    "description": "Writer focus project impact.\nTable operation break idea. Large because site trade despite everyone style. Difference look live authority evening.",
+    "duration": 179,
+    "reviews": [
+      "Mind picture new design natural parent organization out."
+    ],
+    "budget": 148262978,
+    "country": "Canada",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 25,
+    "movie_title": "Director raise meet young",
+    "release_date": "2016-08-18",
+    "movie_genre": "Sci-Fi",
+    "director": "Shannon Mcdonald",
+    "actors": [
+      "Ian Griffin",
+      "Donna Sanders",
+      "Johnny Harper",
+      "Christopher Deleon"
+    ],
+    "rating": 8.1,
+    "description": "Society office low future meeting bit at. Produce with huge reflect kitchen mind religious. As this daughter.",
+    "duration": 180,
+    "reviews": [
+      "Box hand place thus like.",
+      "Yard artist what pretty six increase high.",
+      "School first people choice seat strategy really along."
+    ],
+    "budget": 154898361,
+    "country": "UK",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 26,
+    "movie_title": "Plan main industry",
+    "release_date": "2020-03-25",
+    "movie_genre": "Action",
+    "director": "Kenneth Black",
+    "actors": [
+      "Pedro Alexander",
+      "Terri Howard",
+      "Eric Anthony",
+      "Mary Jones"
+    ],
+    "rating": 7.7,
+    "description": "Three expect those rate. Show parent explain show religious teacher age. Campaign event like.",
+    "duration": 123,
+    "reviews": [
+      "Others specific use our billion.",
+      "Difference trade be service factor student memory parent.",
+      "Pattern community candidate who can go shoulder."
+    ],
+    "budget": 170176706,
+    "country": "UK",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 27,
+    "movie_title": "Dark improve wall",
+    "release_date": "2023-07-31",
+    "movie_genre": "Action",
+    "director": "Samuel Norman",
+    "actors": [
+      "Ellen Evans",
+      "Antonio Brown"
+    ],
+    "rating": 8.6,
+    "description": "Development sometimes mind free follow citizen among school. Pick heavy since usually tend. Anything resource reality.",
+    "duration": 89,
+    "reviews": [
+      "Step low picture attention.",
+      "Moment million minute traditional real.",
+      "Push never lot present pay."
+    ],
+    "budget": 134475820,
+    "country": "South Korea",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 28,
+    "movie_title": "Common usually",
+    "release_date": "2019-03-29",
+    "movie_genre": "Romance",
+    "director": "Cindy Ross",
+    "actors": [
+      "Ashley Hughes",
+      "Victoria Schultz",
+      "Eric Anthony",
+      "Brandy Kelley",
+      "Laura Bradley"
+    ],
+    "rating": 6.5,
+    "description": "Ready record and occur author cover behavior side. Professional decide those role listen. Him mother lawyer system chair whole note collection.",
+    "duration": 151,
+    "reviews": [
+      "Reach guy hundred order organization myself item.",
+      "Them perform contain quite."
+    ],
+    "budget": 112979716,
+    "country": "USA",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 29,
+    "movie_title": "Deep author",
+    "release_date": "2021-01-17",
+    "movie_genre": "Thriller",
+    "director": "Peter Brandt",
+    "actors": [
+      "Pedro Alexander",
+      "Phillip Gray",
+      "Joseph Campbell"
+    ],
+    "rating": 7.8,
+    "description": "Party spend part require both born parent. Might economic watch catch nice economy system. By water small international.",
+    "duration": 100,
+    "reviews": [
+      "Thus rate none recent happy.",
+      "Realize million order dinner kid.",
+      "Least fly person.",
+      "Better recognize visit social."
+    ],
+    "budget": 5134929,
+    "country": "France",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 30,
+    "movie_title": "Issue individual treatment",
+    "release_date": "2019-07-23",
+    "movie_genre": "Adventure",
+    "director": "Kimberly King",
+    "actors": [
+      "Deanna Myers",
+      "Jason Martinez",
+      "Brandon Perez",
+      "Benjamin Daniel",
+      "Donald Rose"
+    ],
+    "rating": 8.5,
+    "description": "Effect officer lay card. Animal cold your figure region network. Cover lawyer hard nearly enjoy.",
+    "duration": 103,
+    "reviews": [
+      "Night or paper pull.",
+      "Significant design year risk.",
+      "Action deal might development human."
+    ],
+    "budget": 95557935,
+    "country": "UK",
+    "language": "Japanese",
+    "addFav": false
+  },
+  {
+    "id": 31,
+    "movie_title": "Specific crime",
+    "release_date": "2015-12-19",
+    "movie_genre": "Comedy",
+    "director": "Willie Mitchell",
+    "actors": [
+      "Robin Munoz",
+      "Benjamin Daniel",
+      "Kaylee Reed",
+      "Cynthia Garcia"
+    ],
+    "rating": 6.4,
+    "description": "Create young left yeah political manager cost she. Data nation say create indeed before.",
+    "duration": 136,
+    "reviews": [
+      "Team lawyer response by here lawyer.",
+      "Computer media score before toward stop air.",
+      "Indicate life whole customer themselves."
+    ],
+    "budget": 134601655,
+    "country": "Japan",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 32,
+    "movie_title": "Job lay",
+    "release_date": "2024-03-22",
+    "movie_genre": "Romance",
+    "director": "Brandon Nguyen DDS",
+    "actors": [
+      "Jennifer Thomas",
+      "Eric Anthony",
+      "Tyler Graham"
+    ],
+    "rating": 7.5,
+    "description": "Issue note yes least worker. Have newspaper soldier fly state behind forward.\nLess great edge church she crime. Control network what evening.",
+    "duration": 90,
+    "reviews": [
+      "Professor word approach civil."
+    ],
+    "budget": 170058258,
+    "country": "Canada",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 33,
+    "movie_title": "Wear",
+    "release_date": "2021-10-29",
+    "movie_genre": "Sci-Fi",
+    "director": "Paul Smith",
+    "actors": [
+      "Brandy Kelley",
+      "Mr. Robert Bishop",
+      "Loretta Peterson",
+      "Deanna Myers"
+    ],
+    "rating": 4.7,
+    "description": "Environment image sort how or during. Discover family big sense life rise test.\nHe after support. Skill floor work I within cut.",
+    "duration": 152,
+    "reviews": [
+      "Best hear trip public red."
+    ],
+    "budget": 74706654,
+    "country": "Japan",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 34,
+    "movie_title": "Nor shake idea",
+    "release_date": "2017-05-12",
+    "movie_genre": "Drama",
+    "director": "Heather Smith",
+    "actors": [
+      "Deanna Myers",
+      "Elizabeth Jackson"
+    ],
+    "rating": 5.7,
+    "description": "Assume tax loss mouth forget appear. Suddenly arm finish we. Quite paper seat job computer her take.",
+    "duration": 89,
+    "reviews": [
+      "Four American yeah day.",
+      "Along new usually it fire."
+    ],
+    "budget": 87748425,
+    "country": "USA",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 35,
+    "movie_title": "Focus future purpose",
+    "release_date": "2023-07-08",
+    "movie_genre": "Drama",
+    "director": "Christopher Taylor",
+    "actors": [
+      "Pedro Alexander",
+      "Ellen Evans",
+      "James Dunlap",
+      "Antonio Brown",
+      "Terri Howard"
+    ],
+    "rating": 7.1,
+    "description": "Its occur usually yes. Spend room bank.\nColor do single rich. Group sure plant pattern.",
+    "duration": 96,
+    "reviews": [
+      "Support technology along successful partner recently individual kid.",
+      "Laugh dark bring push somebody.",
+      "For themselves week more set."
+    ],
+    "budget": 122776806,
+    "country": "USA",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 36,
+    "movie_title": "Sell stock mission",
+    "release_date": "2024-06-14",
+    "movie_genre": "Romance",
+    "director": "Deborah Guzman",
+    "actors": [
+      "Christopher Deleon",
+      "Elizabeth Jackson",
+      "Brandon Perez",
+      "Cynthia Garcia",
+      "Joseph Campbell"
+    ],
+    "rating": 8.4,
+    "description": "Hear because citizen response. History environmental bank knowledge matter.\nSoon could drive. Their painting both because tough describe.",
+    "duration": 158,
+    "reviews": [
+      "Beyond mean people song out skin behind.",
+      "Professional fill own officer without."
+    ],
+    "budget": 173802762,
+    "country": "Canada",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 37,
+    "movie_title": "Customer young chance",
+    "release_date": "2017-09-25",
+    "movie_genre": "Drama",
+    "director": "Theresa Williams",
+    "actors": [
+      "Victoria Schultz",
+      "Ashley Hughes",
+      "Spencer Jones"
+    ],
+    "rating": 8.4,
+    "description": "Could lot someone tax raise nature factor. Beautiful well watch you sing political.",
+    "duration": 171,
+    "reviews": [
+      "Wind health baby year player.",
+      "Eye glass when social animal yet."
+    ],
+    "budget": 114096117,
+    "country": "Germany",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 38,
+    "movie_title": "Fight no",
+    "release_date": "2024-06-08",
+    "movie_genre": "Sci-Fi",
+    "director": "Juan Zavala MD",
+    "actors": [
+      "Antonio Brown",
+      "Donna Sanders",
+      "Charlene Baker",
+      "Phillip Gray"
+    ],
+    "rating": 6.9,
+    "description": "Write play heart miss yet hot fear. Customer term these true usually.",
+    "duration": 107,
+    "reviews": [
+      "Better add meeting party structure."
+    ],
+    "budget": 34775530,
+    "country": "UK",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 39,
+    "movie_title": "Sea catch quality in",
+    "release_date": "2018-06-13",
+    "movie_genre": "Drama",
+    "director": "Jessica House MD",
+    "actors": [
+      "Brandy Kelley",
+      "Brandon Perez",
+      "Phillip Gray",
+      "Tyler Graham",
+      "Karen Rose"
+    ],
+    "rating": 4.0,
+    "description": "Leader a recognize everybody discover garden. Interview nothing manager seat talk themselves without. No near eye best up short risk.",
+    "duration": 83,
+    "reviews": [
+      "Figure federal couple easy project financial.",
+      "Wear cultural show physical history service."
+    ],
+    "budget": 184276956,
+    "country": "Canada",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 40,
+    "movie_title": "Practice question",
+    "release_date": "2024-06-04",
+    "movie_genre": "Horror",
+    "director": "Rita Daniels",
+    "actors": [
+      "Jennifer Thomas",
+      "Karen Rose",
+      "Loretta Peterson",
+      "Antonio Brown"
+    ],
+    "rating": 9.2,
+    "description": "Challenge technology ball see. Outside reality lay doctor well research voice.",
+    "duration": 94,
+    "reviews": [
+      "Speak way general trouble determine."
+    ],
+    "budget": 167376074,
+    "country": "South Korea",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 41,
+    "movie_title": "High perform",
+    "release_date": "2024-03-06",
+    "movie_genre": "Sci-Fi",
+    "director": "Anthony King",
+    "actors": [
+      "Pedro Alexander",
+      "Johnny Harper",
+      "Karen Rose",
+      "Juan Munoz"
+    ],
+    "rating": 4.2,
+    "description": "Center question prevent themselves at ground. Direction almost brother attention fire around. Between add word another result them.",
+    "duration": 111,
+    "reviews": [
+      "Trade order really each attention above moment anything.",
+      "Green idea size animal learn know address.",
+      "Over about young most little."
+    ],
+    "budget": 154220707,
+    "country": "South Korea",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 42,
+    "movie_title": "True role not",
+    "release_date": "2021-05-15",
+    "movie_genre": "Adventure",
+    "director": "Thomas Whitehead",
+    "actors": [
+      "Kaylee Reed",
+      "Alexander Olson",
+      "Laura Bradley"
+    ],
+    "rating": 5.6,
+    "description": "Popular morning box teacher after. Collection stuff poor several box option. Outside by own amount family.",
+    "duration": 160,
+    "reviews": [
+      "Establish sister result level president."
+    ],
+    "budget": 7362903,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 43,
+    "movie_title": "Rule water simple",
+    "release_date": "2023-09-14",
+    "movie_genre": "Sci-Fi",
+    "director": "William Parker",
+    "actors": [
+      "Phillip Gray",
+      "Austin Smith",
+      "Sara King"
+    ],
+    "rating": 9.5,
+    "description": "Popular add produce wide young fall fight. Law same activity behind over ahead law. Although while there pressure.",
+    "duration": 144,
+    "reviews": [
+      "During case late race onto.",
+      "Serve husband professional central offer.",
+      "Over letter memory."
+    ],
+    "budget": 167786081,
+    "country": "UK",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 44,
+    "movie_title": "President ask",
+    "release_date": "2022-12-15",
+    "movie_genre": "Fantasy",
+    "director": "Brandon Shepherd",
+    "actors": [
+      "Victoria Schultz",
+      "Charlene Baker",
+      "Jennifer Thomas",
+      "Sylvia Chavez"
+    ],
+    "rating": 8.8,
+    "description": "Defense specific behavior customer well defense. Executive measure challenge enter experience garden seek.",
+    "duration": 137,
+    "reviews": [
+      "Before something billion."
+    ],
+    "budget": 95426322,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 45,
+    "movie_title": "Pay different bring",
+    "release_date": "2022-06-10",
+    "movie_genre": "Action",
+    "director": "Stephanie Ball",
+    "actors": [
+      "Phillip Gray",
+      "Michael Skinner",
+      "Alexander Olson",
+      "Melanie Mccarty"
+    ],
+    "rating": 9.2,
+    "description": "Respond foreign those evening store on degree. Year ground goal mission.",
+    "duration": 101,
+    "reviews": [
+      "Situation charge ahead lot."
+    ],
+    "budget": 8537560,
+    "country": "Germany",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 46,
+    "movie_title": "Market find himself term",
+    "release_date": "2022-10-24",
+    "movie_genre": "Adventure",
+    "director": "Aaron Green",
+    "actors": [
+      "Carmen Walter",
+      "James Dunlap",
+      "Barbara Trujillo",
+      "Mary Jones"
+    ],
+    "rating": 5.7,
+    "description": "Foreign fear health start.",
+    "duration": 134,
+    "reviews": [
+      "Thus film mention continue.",
+      "Feeling ever explain chance mother service which show.",
+      "People team memory news bag."
+    ],
+    "budget": 164348464,
+    "country": "France",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 47,
+    "movie_title": "Road water admit",
+    "release_date": "2023-02-01",
+    "movie_genre": "Thriller",
+    "director": "Steven Richards",
+    "actors": [
+      "Sylvia Chavez",
+      "Karen Rose",
+      "Ashley Hughes",
+      "Ellen Evans",
+      "Melanie Mccarty"
+    ],
+    "rating": 5.2,
+    "description": "Quality no fall. Structure to whole vote rate sound.\nSeason all watch impact right put. Free should game.",
+    "duration": 119,
+    "reviews": [
+      "Friend recognize tax station station you beat.",
+      "Build necessary way identify not size guess."
+    ],
+    "budget": 132937691,
+    "country": "Japan",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 48,
+    "movie_title": "Drop color",
+    "release_date": "2016-10-22",
+    "movie_genre": "Adventure",
+    "director": "Caleb Brown",
+    "actors": [
+      "Steven Phillips",
+      "Loretta Peterson"
+    ],
+    "rating": 8.7,
+    "description": "Manage product especially anything into student our bit. Create you still material make.",
+    "duration": 93,
+    "reviews": [
+      "Audience administration bed reach program PM customer change.",
+      "Sea where indeed pretty interview memory.",
+      "Score government back baby."
+    ],
+    "budget": 134276286,
+    "country": "South Korea",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 49,
+    "movie_title": "Husband more left",
+    "release_date": "2021-09-12",
+    "movie_genre": "Sci-Fi",
+    "director": "Shannon Freeman",
+    "actors": [
+      "Johnny Harper",
+      "Steven Phillips",
+      "Ronald Bender",
+      "Jason Martinez",
+      "Donald Rose"
+    ],
+    "rating": 9.1,
+    "description": "Part coach through safe worry sit. Vote look family way everyone popular show.\nPersonal customer voice short ask early. Get area town shake forget.",
+    "duration": 176,
+    "reviews": [
+      "Eight traditional former fire."
+    ],
+    "budget": 61023972,
+    "country": "Canada",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 50,
+    "movie_title": "Live reflect",
+    "release_date": "2016-02-27",
+    "movie_genre": "Drama",
+    "director": "Michael Rosales",
+    "actors": [
+      "Mary Jones",
+      "Laura Martin",
+      "Michael Skinner",
+      "Michelle Anderson",
+      "Benjamin Daniel"
+    ],
+    "rating": 3.3,
+    "description": "Possible natural amount financial. For another generation much image.\nSimple friend science. Mind hit where both. Staff rate push form reality treat.",
+    "duration": 103,
+    "reviews": [
+      "Better place give that both.",
+      "Mrs try fast.",
+      "Some record often."
+    ],
+    "budget": 172520552,
+    "country": "Germany",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 51,
+    "movie_title": "Others",
+    "release_date": "2019-05-20",
+    "movie_genre": "Adventure",
+    "director": "Brittany Collins",
+    "actors": [
+      "Charlene Baker",
+      "Ian Griffin",
+      "Jason Martinez",
+      "Victoria Schultz"
+    ],
+    "rating": 8.4,
+    "description": "Wife production dog son attention product forget plan.\nArt arm despite win. Back feeling meet perhaps your poor. Sure find top security base.",
+    "duration": 169,
+    "reviews": [
+      "Truth ability now join southern space.",
+      "Fall still back create.",
+      "Company strategy positive relate safe again.",
+      "Scientist huge experience type work different."
+    ],
+    "budget": 47662516,
+    "country": "Germany",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 52,
+    "movie_title": "Study win morning",
+    "release_date": "2021-07-25",
+    "movie_genre": "Drama",
+    "director": "Robyn Jackson",
+    "actors": [
+      "Cynthia Garcia",
+      "Austin Smith",
+      "Mary Jones"
+    ],
+    "rating": 4.3,
+    "description": "Watch great material. Remember ahead use front sign artist. Guy player try.",
+    "duration": 133,
+    "reviews": [
+      "Hair move knowledge.",
+      "Better yourself message particular military certain six.",
+      "Response kind human clear record both.",
+      "Analysis city accept adult."
+    ],
+    "budget": 122274994,
+    "country": "Canada",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 53,
+    "movie_title": "Opportunity",
+    "release_date": "2017-03-01",
+    "movie_genre": "Comedy",
+    "director": "John Ward",
+    "actors": [
+      "Victoria Schultz",
+      "Ellen Evans",
+      "Deanna Myers"
+    ],
+    "rating": 4.5,
+    "description": "Degree skill officer fall other heart stock environment. But sing third six break.",
+    "duration": 87,
+    "reviews": [
+      "That great happy to.",
+      "Affect reason mind.",
+      "Heart language everyone thought article we.",
+      "Today leader throughout seven new peace present."
+    ],
+    "budget": 73692211,
+    "country": "UK",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 54,
+    "movie_title": "Investment",
+    "release_date": "2015-10-08",
+    "movie_genre": "Horror",
+    "director": "Susan Ward",
+    "actors": [
+      "Tyler Graham",
+      "Sara King",
+      "Erica Hawkins"
+    ],
+    "rating": 5.9,
+    "description": "Whom reduce cause hope Democrat peace administration south. Threat rule security art.",
+    "duration": 126,
+    "reviews": [
+      "Road now north artist teacher lot.",
+      "Throw to particularly identify left hour manage down.",
+      "Real positive physical then."
+    ],
+    "budget": 145479440,
+    "country": "Germany",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 55,
+    "movie_title": "Suddenly one member",
+    "release_date": "2017-12-20",
+    "movie_genre": "Romance",
+    "director": "Tyler Perry",
+    "actors": [
+      "Maureen Brown",
+      "Phillip Gray",
+      "Ronald Bender",
+      "Ashley Hughes"
+    ],
+    "rating": 6.8,
+    "description": "Stuff color very fight small set why. Reach house wrong list.\nPlace resource blood. To music identify. Piece cold look agent seek.",
+    "duration": 144,
+    "reviews": [
+      "Happen high class choose same.",
+      "Window notice back."
+    ],
+    "budget": 186566575,
+    "country": "Japan",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 56,
+    "movie_title": "Improve official crime",
+    "release_date": "2024-09-04",
+    "movie_genre": "Action",
+    "director": "Joseph Vincent",
+    "actors": [
+      "Barbara Trujillo",
+      "Maureen Brown",
+      "Laura Bradley",
+      "Eric Anthony"
+    ],
+    "rating": 6.1,
+    "description": "Pay student participant.\nWin director she its religious either specific. Toward seek enjoy Democrat memory fight.",
+    "duration": 170,
+    "reviews": [
+      "Response allow next item Mr pay someone.",
+      "Indicate structure physical side serious use.",
+      "Her break teacher professor fish.",
+      "Little else middle painting hard first than."
+    ],
+    "budget": 35700342,
+    "country": "USA",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 57,
+    "movie_title": "Thank reality other",
+    "release_date": "2016-09-24",
+    "movie_genre": "Sci-Fi",
+    "director": "Patrick White",
+    "actors": [
+      "Michael Skinner",
+      "Phillip Gray",
+      "Brandy Kelley"
+    ],
+    "rating": 3.8,
+    "description": "Let color president daughter. Force then more nor call send. To brother drop.",
+    "duration": 85,
+    "reviews": [
+      "History consider yard number talk though artist.",
+      "Friend work write young natural step."
+    ],
+    "budget": 97465555,
+    "country": "USA",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 58,
+    "movie_title": "Cultural especially",
+    "release_date": "2017-11-21",
+    "movie_genre": "Thriller",
+    "director": "Tanya Molina",
+    "actors": [
+      "Juan Munoz",
+      "James Dunlap",
+      "Pedro Alexander",
+      "Sylvia Chavez",
+      "Joseph Campbell"
+    ],
+    "rating": 8.8,
+    "description": "Candidate bad owner more.\nCollection easy space town development decade market. Buy bank behind job. Base idea hot security good.",
+    "duration": 108,
+    "reviews": [
+      "Will listen letter too kid discover prevent."
+    ],
+    "budget": 194667223,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 59,
+    "movie_title": "Color occur himself",
+    "release_date": "2015-12-21",
+    "movie_genre": "Action",
+    "director": "Kimberly Thompson",
+    "actors": [
+      "Donald Rose",
+      "Brandon Perez",
+      "Kaylee Reed"
+    ],
+    "rating": 8.5,
+    "description": "Pretty major seat leg. Center such Mr power while.\nExample former friend high hear. Conference thank after. Job let concern trial.",
+    "duration": 167,
+    "reviews": [
+      "Campaign join baby drop north team whatever.",
+      "Final window member sing event strategy design.",
+      "Bad authority sense improve third whom help."
+    ],
+    "budget": 174234250,
+    "country": "UK",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 60,
+    "movie_title": "Foot",
+    "release_date": "2019-08-25",
+    "movie_genre": "Horror",
+    "director": "Brett Levine",
+    "actors": [
+      "Laura Ellis",
+      "Johnny Harper",
+      "Benjamin Daniel",
+      "Jason Martinez",
+      "Austin Smith"
+    ],
+    "rating": 5.5,
+    "description": "Project enough form shoulder. Major wall something.\nPerform simple design issue. Seek voice open east leave turn put. Population best attention more.",
+    "duration": 99,
+    "reviews": [
+      "Long include sound test watch.",
+      "Near arm subject information word."
+    ],
+    "budget": 138237483,
+    "country": "Canada",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 61,
+    "movie_title": "Up anyone",
+    "release_date": "2020-11-16",
+    "movie_genre": "Drama",
+    "director": "Joshua Gonzales",
+    "actors": [
+      "Tyler Graham",
+      "Jason Martinez",
+      "Michael Skinner",
+      "Loretta Peterson"
+    ],
+    "rating": 8.3,
+    "description": "Shake any special. Bag treatment action window.\nCapital born college really reality forward sure. Bag order thus hard.",
+    "duration": 160,
+    "reviews": [
+      "Star player though entire.",
+      "Wife happy threat challenge current community TV audience.",
+      "Friend street once popular."
+    ],
+    "budget": 145724677,
+    "country": "UK",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 62,
+    "movie_title": "Create cultural society",
+    "release_date": "2016-04-23",
+    "movie_genre": "Comedy",
+    "director": "Kristin Velez",
+    "actors": [
+      "Carmen Walter",
+      "Ellen Evans",
+      "Austin Smith",
+      "James Dunlap"
+    ],
+    "rating": 9.3,
+    "description": "Challenge however require say. Building science check thus doctor huge.",
+    "duration": 149,
+    "reviews": [
+      "Worry guess probably tell.",
+      "Consider free box letter gun product sit."
+    ],
+    "budget": 140992925,
+    "country": "South Korea",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 63,
+    "movie_title": "Window interesting",
+    "release_date": "2015-12-11",
+    "movie_genre": "Thriller",
+    "director": "Jose Garza",
+    "actors": [
+      "Phillip Gray",
+      "Jason Martinez",
+      "Ashley Hughes"
+    ],
+    "rating": 3.3,
+    "description": "Have continue range every recent factor little far. Similar perhaps professor life inside.",
+    "duration": 148,
+    "reviews": [
+      "Off finish need court against.",
+      "Behind charge be letter president some artist.",
+      "Agent sell control customer commercial.",
+      "Agreement message yeah policy thing show."
+    ],
+    "budget": 36524286,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 64,
+    "movie_title": "Black our",
+    "release_date": "2020-05-04",
+    "movie_genre": "Adventure",
+    "director": "Jennifer Reid",
+    "actors": [
+      "Austin Smith",
+      "Carmen Walter",
+      "Michael Skinner",
+      "Mr. Robert Bishop"
+    ],
+    "rating": 8.7,
+    "description": "Factor different positive others break. Card similar environment vote.\nArrive interview trial lay. Wonder piece term task force.",
+    "duration": 153,
+    "reviews": [
+      "Past standard hand chance two.",
+      "On five professional travel.",
+      "Rate after ten explain."
+    ],
+    "budget": 147484986,
+    "country": "France",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 65,
+    "movie_title": "Behavior",
+    "release_date": "2024-09-10",
+    "movie_genre": "Comedy",
+    "director": "Jasmine Wallace",
+    "actors": [
+      "Sara King",
+      "Laura Ellis",
+      "Pedro Alexander",
+      "Jennifer Thomas"
+    ],
+    "rating": 3.0,
+    "description": "Huge also near lead from partner. Effect point dark alone last.\nAgo threat now evening.",
+    "duration": 130,
+    "reviews": [
+      "Girl year fear never.",
+      "Nation compare key person result.",
+      "Foot bring standard space affect.",
+      "Take ever whole material social film."
+    ],
+    "budget": 45081609,
+    "country": "Canada",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 66,
+    "movie_title": "Control score",
+    "release_date": "2023-04-24",
+    "movie_genre": "Horror",
+    "director": "Tracy Charles",
+    "actors": [
+      "Melanie Mccarty",
+      "Donald Rose",
+      "Eric Anthony",
+      "Sylvia Chavez",
+      "Karen Rose"
+    ],
+    "rating": 5.4,
+    "description": "It president I no region everybody magazine.",
+    "duration": 108,
+    "reviews": [
+      "Fall down war necessary its."
+    ],
+    "budget": 12209275,
+    "country": "USA",
+    "language": "Japanese",
+    "addFav": false
+  },
+  {
+    "id": 67,
+    "movie_title": "Girl long morning",
+    "release_date": "2023-11-30",
+    "movie_genre": "Action",
+    "director": "Marcus Richardson",
+    "actors": [
+      "Deanna Myers",
+      "Robin Munoz"
+    ],
+    "rating": 9.3,
+    "description": "Yard their somebody course drive work. Though magazine like ok rule along involve. Civil before true.",
+    "duration": 116,
+    "reviews": [
+      "Sign east hope over able.",
+      "Stand order computer interesting exactly.",
+      "Cut him it choice gun nice finally."
+    ],
+    "budget": 108624894,
+    "country": "Germany",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 68,
+    "movie_title": "Product billion",
+    "release_date": "2016-11-26",
+    "movie_genre": "Sci-Fi",
+    "director": "Jennifer Franklin",
+    "actors": [
+      "Benjamin Daniel",
+      "Cynthia Garcia"
+    ],
+    "rating": 3.5,
+    "description": "These indeed history member factor around ability whether. Huge able capital someone run report six.",
+    "duration": 174,
+    "reviews": [
+      "Kitchen not let before anything threat.",
+      "World force water Democrat customer everybody soldier.",
+      "Size popular key teach field day child.",
+      "Former under financial hold."
+    ],
+    "budget": 9795364,
+    "country": "USA",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 69,
+    "movie_title": "Newspaper",
+    "release_date": "2019-04-01",
+    "movie_genre": "Drama",
+    "director": "Daniel House",
+    "actors": [
+      "Ian Griffin",
+      "Sara King",
+      "Michelle Anderson",
+      "Elizabeth Jackson",
+      "Virginia Bell"
+    ],
+    "rating": 5.9,
+    "description": "Buy human claim answer. Less unit point seven. Even alone save way soon player.",
+    "duration": 158,
+    "reviews": [
+      "See and history need strong listen interesting."
+    ],
+    "budget": 45532862,
+    "country": "France",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 70,
+    "movie_title": "Total",
+    "release_date": "2018-06-18",
+    "movie_genre": "Sci-Fi",
+    "director": "Angela Gonzalez",
+    "actors": [
+      "Christopher Deleon",
+      "Ellen Evans",
+      "Maureen Brown"
+    ],
+    "rating": 7.4,
+    "description": "Send sister any sit. Sport that pay subject pull party along. Adult man poor need affect Republican time.",
+    "duration": 164,
+    "reviews": [
+      "Would group represent better nothing part.",
+      "May evidence have phone leave effort.",
+      "Make prove rich itself.",
+      "Court two long choose same rule."
+    ],
+    "budget": 144500770,
+    "country": "France",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 71,
+    "movie_title": "President what sound",
+    "release_date": "2022-03-22",
+    "movie_genre": "Romance",
+    "director": "Jennifer Newman",
+    "actors": [
+      "Jason Martinez",
+      "Kaylee Reed"
+    ],
+    "rating": 5.2,
+    "description": "Special four value my reduce trade dark hour. Everyone appear little ok without. Father yes impact fine move purpose.",
+    "duration": 102,
+    "reviews": [
+      "Structure idea much structure most on player.",
+      "Blue anyone off buy maybe act."
+    ],
+    "budget": 128044869,
+    "country": "Japan",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 72,
+    "movie_title": "Lot",
+    "release_date": "2021-12-30",
+    "movie_genre": "Horror",
+    "director": "Steven Kim",
+    "actors": [
+      "Robin Munoz",
+      "Laura Ellis"
+    ],
+    "rating": 3.2,
+    "description": "Example baby animal last seem end. Father state recent into.",
+    "duration": 146,
+    "reviews": [
+      "Sport indeed mother series for south."
+    ],
+    "budget": 73326031,
+    "country": "South Korea",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 73,
+    "movie_title": "Respond ready",
+    "release_date": "2023-06-17",
+    "movie_genre": "Romance",
+    "director": "Thomas Doyle",
+    "actors": [
+      "Alexander Olson",
+      "Michelle Anderson",
+      "Loretta Peterson",
+      "Johnny Harper"
+    ],
+    "rating": 3.9,
+    "description": "Name sense knowledge manage him. Point quality can.",
+    "duration": 122,
+    "reviews": [
+      "Top most buy similar war central under.",
+      "Would practice community.",
+      "Service blue debate offer also figure."
+    ],
+    "budget": 9864384,
+    "country": "Japan",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 74,
+    "movie_title": "Color plan million",
+    "release_date": "2021-02-18",
+    "movie_genre": "Thriller",
+    "director": "Shelby Hughes",
+    "actors": [
+      "Brandy Kelley",
+      "Maureen Brown",
+      "Kaylee Reed"
+    ],
+    "rating": 3.4,
+    "description": "Green hold interest country follow. Customer plant support friend age.",
+    "duration": 156,
+    "reviews": [
+      "End down language act.",
+      "Type from memory time drug.",
+      "Condition mother night door seek."
+    ],
+    "budget": 58706039,
+    "country": "USA",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 75,
+    "movie_title": "Performance guess fill",
+    "release_date": "2024-10-12",
+    "movie_genre": "Fantasy",
+    "director": "Alicia Smith",
+    "actors": [
+      "Tyler Graham",
+      "Terri Howard"
+    ],
+    "rating": 7.9,
+    "description": "Improve cut vote force off season. Put wife event because seek member.\nPull drive allow firm all group point. Wall walk they where run.",
+    "duration": 135,
+    "reviews": [
+      "Buy carry social seek.",
+      "Full explain world work.",
+      "From gun truth senior foot example.",
+      "So along represent deal cold each prepare."
+    ],
+    "budget": 44312334,
+    "country": "UK",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 76,
+    "movie_title": "High author",
+    "release_date": "2020-02-27",
+    "movie_genre": "Comedy",
+    "director": "Alan Evans",
+    "actors": [
+      "Pedro Alexander",
+      "Austin Smith",
+      "Virginia Bell",
+      "Donna Sanders",
+      "Elizabeth Jackson"
+    ],
+    "rating": 4.7,
+    "description": "Improve here area history. Help grow phone similar arm. Third lose would trial cause keep. Generation change sense floor.",
+    "duration": 118,
+    "reviews": [
+      "These off reflect work nothing consumer deep."
+    ],
+    "budget": 143276457,
+    "country": "Germany",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 77,
+    "movie_title": "Must thing produce",
+    "release_date": "2023-03-22",
+    "movie_genre": "Fantasy",
+    "director": "Julie Mann",
+    "actors": [
+      "Eric Anthony",
+      "Alexander Olson",
+      "Loretta Peterson",
+      "Virginia Bell"
+    ],
+    "rating": 5.0,
+    "description": "Evening return clearly million. Each education some peace. Agree carry account military response soon.",
+    "duration": 141,
+    "reviews": [
+      "Growth although teacher beautiful majority bill program."
+    ],
+    "budget": 83575782,
+    "country": "UK",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 78,
+    "movie_title": "Customer anything",
+    "release_date": "2017-01-01",
+    "movie_genre": "Comedy",
+    "director": "Derrick Crawford",
+    "actors": [
+      "Phillip Gray",
+      "Erica Hawkins"
+    ],
+    "rating": 6.3,
+    "description": "International audience education budget tell move. Page since government. Issue red information total full west lead.",
+    "duration": 93,
+    "reviews": [
+      "Onto establish toward conference effort."
+    ],
+    "budget": 60152952,
+    "country": "USA",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 79,
+    "movie_title": "Put four",
+    "release_date": "2021-05-13",
+    "movie_genre": "Comedy",
+    "director": "Curtis Bray",
+    "actors": [
+      "Alexander Olson",
+      "Terri Howard",
+      "Johnny Harper",
+      "Steven Phillips",
+      "Ellen Evans"
+    ],
+    "rating": 6.6,
+    "description": "New according human culture certainly kind many. Music pick performance mother include. Show us yet student strong.",
+    "duration": 127,
+    "reviews": [
+      "Edge guess financial cup claim garden.",
+      "Never power story size community."
+    ],
+    "budget": 29908808,
+    "country": "France",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 80,
+    "movie_title": "Usually cultural",
+    "release_date": "2023-08-30",
+    "movie_genre": "Sci-Fi",
+    "director": "Bryan Tapia",
+    "actors": [
+      "Kaylee Reed",
+      "Maureen Brown",
+      "Ellen Evans"
+    ],
+    "rating": 4.2,
+    "description": "Perform bring treat now. Cup lose best would material while. Expect response he forget husband. Course I all by.",
+    "duration": 99,
+    "reviews": [
+      "Mean memory ready degree spring radio he.",
+      "Night expert country forget.",
+      "Pm person wear door."
+    ],
+    "budget": 119312561,
+    "country": "USA",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 81,
+    "movie_title": "Town within staff",
+    "release_date": "2022-06-17",
+    "movie_genre": "Romance",
+    "director": "Michael Howe",
+    "actors": [
+      "Kaylee Reed",
+      "Barbara Trujillo",
+      "Sylvia Chavez"
+    ],
+    "rating": 5.0,
+    "description": "Increase various modern analysis type. Front again near man inside consider.",
+    "duration": 137,
+    "reviews": [
+      "Morning view approach impact behavior maintain too kid.",
+      "Bank whose hour.",
+      "Paper discussion enough write protect."
+    ],
+    "budget": 75559107,
+    "country": "Japan",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 82,
+    "movie_title": "Pretty foot",
+    "release_date": "2022-05-15",
+    "movie_genre": "Comedy",
+    "director": "Jordan Houston",
+    "actors": [
+      "Austin Smith",
+      "Donald Rose"
+    ],
+    "rating": 9.0,
+    "description": "Suddenly out station piece bring beautiful event. Gun dream dream century put newspaper option fill.",
+    "duration": 159,
+    "reviews": [
+      "Mr glass TV per add sister why.",
+      "Majority trip someone leader likely source customer.",
+      "Western main account on common."
+    ],
+    "budget": 90291465,
+    "country": "France",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 83,
+    "movie_title": "Site care",
+    "release_date": "2015-10-07",
+    "movie_genre": "Romance",
+    "director": "Rebecca Johnson",
+    "actors": [
+      "Laura Martin",
+      "Mary Jones"
+    ],
+    "rating": 5.4,
+    "description": "The measure before week short environment. Long down record health discover feeling.",
+    "duration": 101,
+    "reviews": [
+      "Want position safe particularly.",
+      "Trade these factor after around.",
+      "Authority family soldier million now leave television."
+    ],
+    "budget": 39422269,
+    "country": "France",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 84,
+    "movie_title": "Great ahead such",
+    "release_date": "2024-12-28",
+    "movie_genre": "Adventure",
+    "director": "Jennifer Jordan",
+    "actors": [
+      "Steven Phillips",
+      "Michelle Anderson"
+    ],
+    "rating": 4.8,
+    "description": "Difficult within discover believe movie. Case under hot look but sure. Situation exist watch test.",
+    "duration": 141,
+    "reviews": [
+      "Note weight finally.",
+      "Congress suggest song want law beyond probably where."
+    ],
+    "budget": 198897247,
+    "country": "Japan",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 85,
+    "movie_title": "Author nice glass",
+    "release_date": "2018-06-09",
+    "movie_genre": "Thriller",
+    "director": "David Dickerson",
+    "actors": [
+      "Joseph Campbell",
+      "Victoria Schultz",
+      "Charlene Baker",
+      "Brandon Perez"
+    ],
+    "rating": 6.1,
+    "description": "Yeah charge board give. Brother writer factor marriage discussion. Standard kid he key hand.",
+    "duration": 100,
+    "reviews": [
+      "Assume protect leader civil her source.",
+      "Thing there material under.",
+      "Information ever design business me if challenge."
+    ],
+    "budget": 57499146,
+    "country": "Canada",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 86,
+    "movie_title": "Red age religious",
+    "release_date": "2019-11-23",
+    "movie_genre": "Horror",
+    "director": "Stacy Harris",
+    "actors": [
+      "James Dunlap",
+      "Michael Skinner",
+      "Antonio Brown",
+      "Alexander Olson",
+      "Robin Munoz"
+    ],
+    "rating": 7.4,
+    "description": "List east lay Republican direction rather. Accept son not add manager mention peace tough.",
+    "duration": 121,
+    "reviews": [
+      "Name central itself far economy be.",
+      "East capital indeed."
+    ],
+    "budget": 156680599,
+    "country": "South Korea",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 87,
+    "movie_title": "Foot go ready",
+    "release_date": "2017-08-06",
+    "movie_genre": "Fantasy",
+    "director": "Kevin Osborn",
+    "actors": [
+      "James Dunlap",
+      "Deanna Myers",
+      "Barbara Trujillo"
+    ],
+    "rating": 6.9,
+    "description": "By whether majority ok. Require hotel establish including type quality. Reveal official strong other firm day.",
+    "duration": 126,
+    "reviews": [
+      "His operation very writer decide term page.",
+      "Along study amount foreign best."
+    ],
+    "budget": 150069127,
+    "country": "Canada",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 88,
+    "movie_title": "Grow have",
+    "release_date": "2020-12-10",
+    "movie_genre": "Sci-Fi",
+    "director": "Billy Hunter",
+    "actors": [
+      "Sylvia Chavez",
+      "Jennifer Thomas",
+      "Sara King",
+      "Ellen Evans",
+      "Christopher Deleon"
+    ],
+    "rating": 5.1,
+    "description": "Director model much consider than sort painting question. Much your yard assume pattern really. Offer against stage yourself.",
+    "duration": 140,
+    "reviews": [
+      "Goal information plan sometimes law."
+    ],
+    "budget": 195000000,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 89,
+    "movie_title": "Century office data",
+    "release_date": "2023-01-21",
+    "movie_genre": "Romance",
+    "director": "Dawn Patterson",
+    "actors": [
+      "Ellen Evans",
+      "Sara King",
+      "Karen Rose",
+      "Cynthia Garcia",
+      "Laura Bradley"
+    ],
+    "rating": 7.3,
+    "description": "Social generation group around center less arrive why. Generation step table none young evening. Quite pretty coach.",
+    "duration": 153,
+    "reviews": [
+      "Whom ahead one deal light.",
+      "According six occur rich record.",
+      "Perform wall oil view from responsibility current.",
+      "Start help option summer hit."
+    ],
+    "budget": 77536795,
+    "country": "France",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 90,
+    "movie_title": "Civil now",
+    "release_date": "2018-08-21",
+    "movie_genre": "Horror",
+    "director": "Richard Benson",
+    "actors": [
+      "Steven Phillips",
+      "Loretta Peterson",
+      "Erica Hawkins"
+    ],
+    "rating": 4.5,
+    "description": "How him require happy back. Apply shake their mention product. Suggest eight eye here along town reality.",
+    "duration": 119,
+    "reviews": [
+      "Oil easy data parent act necessary base.",
+      "They right sure successful sign.",
+      "Husband field sort easy away account sound."
+    ],
+    "budget": 33254080,
+    "country": "UK",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 91,
+    "movie_title": "Within course",
+    "release_date": "2015-12-08",
+    "movie_genre": "Horror",
+    "director": "Jennifer Freeman",
+    "actors": [
+      "Charlene Baker",
+      "Jason Martinez",
+      "Donna Sanders",
+      "Juan Munoz"
+    ],
+    "rating": 7.3,
+    "description": "Risk operation cover would. Always box say certainly minute author begin. Cover huge eye long safe.",
+    "duration": 95,
+    "reviews": [
+      "Go between when main.",
+      "Skill population church party like."
+    ],
+    "budget": 68936879,
+    "country": "South Korea",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 92,
+    "movie_title": "Down myself still",
+    "release_date": "2024-01-23",
+    "movie_genre": "Horror",
+    "director": "Michelle Moreno",
+    "actors": [
+      "Sara King",
+      "Ashley Hughes"
+    ],
+    "rating": 9.3,
+    "description": "Attention despite nice area speak can. Mission military rather what. Century art sometimes you item director response.",
+    "duration": 93,
+    "reviews": [
+      "Heavy that what leg rich able these.",
+      "Food whose arm.",
+      "Large one individual Republican."
+    ],
+    "budget": 65639339,
+    "country": "Germany",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 93,
+    "movie_title": "Team we spend",
+    "release_date": "2017-04-30",
+    "movie_genre": "Thriller",
+    "director": "Kerri Garcia",
+    "actors": [
+      "Donald Rose",
+      "Brandon Perez",
+      "Sara King",
+      "Joseph Campbell"
+    ],
+    "rating": 3.3,
+    "description": "Century sister before fight develop. Level I somebody law.\nSource skill capital child hard. Hard goal color.\nClaim mean rise study.",
+    "duration": 85,
+    "reviews": [
+      "Cultural glass current day."
+    ],
+    "budget": 36460117,
+    "country": "France",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 94,
+    "movie_title": "Business while any prepare",
+    "release_date": "2019-05-29",
+    "movie_genre": "Sci-Fi",
+    "director": "Karen Johnson",
+    "actors": [
+      "Virginia Bell",
+      "Ellen Evans",
+      "Laura Bradley",
+      "Pedro Alexander",
+      "Jennifer Thomas"
+    ],
+    "rating": 6.2,
+    "description": "Pressure chance executive father business lose.",
+    "duration": 154,
+    "reviews": [
+      "Television government Congress play activity.",
+      "Against light stuff lawyer.",
+      "Position environment beat red already."
+    ],
+    "budget": 16494237,
+    "country": "France",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 95,
+    "movie_title": "Question",
+    "release_date": "2021-07-30",
+    "movie_genre": "Romance",
+    "director": "Miss Diane Freeman",
+    "actors": [
+      "Ronald Bender",
+      "Phillip Gray",
+      "Antonio Brown",
+      "Kaylee Reed",
+      "Sara King"
+    ],
+    "rating": 3.4,
+    "description": "Manager practice become key window. Road kind big. Win entire far thing decision outside.\nConcern career across. Stop home their since.",
+    "duration": 81,
+    "reviews": [
+      "Reflect go perhaps.",
+      "Sound say poor rise."
+    ],
+    "budget": 94240137,
+    "country": "UK",
+    "language": "Japanese",
+    "addFav": false
+  },
+  {
+    "id": 96,
+    "movie_title": "Because live",
+    "release_date": "2015-08-02",
+    "movie_genre": "Comedy",
+    "director": "Joshua Rodriguez",
+    "actors": [
+      "Juan Munoz",
+      "Elizabeth Jackson",
+      "Tyler Graham",
+      "Austin Smith"
+    ],
+    "rating": 7.9,
+    "description": "Believe movie same. Send bank ask responsibility possible himself green.",
+    "duration": 175,
+    "reviews": [
+      "Them break whether way offer.",
+      "Quite indicate continue peace.",
+      "Not offer market check long.",
+      "Thought put general."
+    ],
+    "budget": 103886079,
+    "country": "Japan",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 97,
+    "movie_title": "Value seem hear",
+    "release_date": "2019-08-08",
+    "movie_genre": "Comedy",
+    "director": "Alex Smith",
+    "actors": [
+      "Brandy Kelley",
+      "Michelle Anderson",
+      "Sylvia Chavez",
+      "Jason Martinez"
+    ],
+    "rating": 5.3,
+    "description": "Rule practice doctor space. Structure station know anyone choose religious act.",
+    "duration": 119,
+    "reviews": [
+      "Major measure me.",
+      "Majority environmental hundred theory push total character.",
+      "Special capital fast some smile."
+    ],
+    "budget": 123976231,
+    "country": "UK",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 98,
+    "movie_title": "Morning oil mouth next",
+    "release_date": "2022-06-26",
+    "movie_genre": "Comedy",
+    "director": "Robin Moran",
+    "actors": [
+      "Ellen Evans",
+      "Elizabeth Jackson",
+      "Sara King",
+      "Ronald Bender",
+      "Benjamin Daniel"
+    ],
+    "rating": 4.1,
+    "description": "Thing plan somebody short item personal candidate. Page whom color write fill special year. High resource fight.",
+    "duration": 155,
+    "reviews": [
+      "Health affect direction theory."
+    ],
+    "budget": 153986666,
+    "country": "USA",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 99,
+    "movie_title": "Mrs across",
+    "release_date": "2016-11-16",
+    "movie_genre": "Romance",
+    "director": "Joshua Walker",
+    "actors": [
+      "James Dunlap",
+      "Laura Martin",
+      "Victoria Schultz"
+    ],
+    "rating": 7.6,
+    "description": "Less beyond her field among mention sea. Keep crime later prove tree send best. Situation not ball anything able example own.",
+    "duration": 119,
+    "reviews": [
+      "Door significant car toward.",
+      "Ago miss sign hair home.",
+      "Perform market hear raise range free end."
+    ],
+    "budget": 148361740,
+    "country": "France",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 100,
+    "movie_title": "Drop simply",
+    "release_date": "2020-12-04",
+    "movie_genre": "Romance",
+    "director": "Dale Jordan",
+    "actors": [
+      "Brandon Perez",
+      "Elizabeth Jackson",
+      "Ashley Hughes",
+      "Laura Ellis",
+      "Deanna Myers"
+    ],
+    "rating": 7.5,
+    "description": "Season something machine art somebody wait. Enough material road scientist open vote wonder.",
+    "duration": 91,
+    "reviews": [
+      "Quite fire think likely apply explain."
+    ],
+    "budget": 164666843,
+    "country": "Japan",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 101,
+    "movie_title": "Think do and",
+    "release_date": "2018-12-02",
+    "movie_genre": "Sci-Fi",
+    "director": "Judith Johnson",
+    "actors": [
+      "Benjamin Daniel",
+      "Barbara Trujillo",
+      "Spencer Jones",
+      "James Dunlap",
+      "Donald Rose"
+    ],
+    "rating": 8.3,
+    "description": "Later consider hair early not air all. Growth officer his including each create need reduce.",
+    "duration": 120,
+    "reviews": [
+      "School artist protect little present enjoy happen despite.",
+      "Lead rich time speech hospital strong above behavior.",
+      "How story happy arm now create."
+    ],
+    "budget": 172908981,
+    "country": "Japan",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 102,
+    "movie_title": "Then article laugh",
+    "release_date": "2017-11-02",
+    "movie_genre": "Action",
+    "director": "Edward Greene",
+    "actors": [
+      "Melanie Mccarty",
+      "Terri Howard",
+      "Robin Munoz",
+      "Christopher Deleon"
+    ],
+    "rating": 4.8,
+    "description": "Effect suffer fire write. Difficult national nearly here full drive point.",
+    "duration": 99,
+    "reviews": [
+      "Around military organization head adult.",
+      "Myself hot letter director view along cause.",
+      "Bring knowledge movement woman."
+    ],
+    "budget": 25802103,
+    "country": "USA",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 103,
+    "movie_title": "Yeah speak piece",
+    "release_date": "2023-10-25",
+    "movie_genre": "Thriller",
+    "director": "Wayne Christensen",
+    "actors": [
+      "Sara King",
+      "Ashley Hughes",
+      "Elizabeth Jackson",
+      "Antonio Brown",
+      "Kaylee Reed"
+    ],
+    "rating": 6.7,
+    "description": "Will change exist. Store amount military Mrs. Behind two city show.",
+    "duration": 85,
+    "reviews": [
+      "Audience shake cut idea involve travel water."
+    ],
+    "budget": 179078509,
+    "country": "Germany",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 104,
+    "movie_title": "Of who",
+    "release_date": "2020-06-17",
+    "movie_genre": "Action",
+    "director": "Michael Christensen",
+    "actors": [
+      "Donald Rose",
+      "Karen Rose",
+      "Maureen Brown",
+      "Johnny Harper",
+      "Sylvia Chavez"
+    ],
+    "rating": 8.8,
+    "description": "Capital office history one. World well plan foot man modern. However soldier same foot reveal art statement.",
+    "duration": 163,
+    "reviews": [
+      "She general close approach position high.",
+      "Work order control including four outside."
+    ],
+    "budget": 56142647,
+    "country": "Canada",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 105,
+    "movie_title": "Skin necessary",
+    "release_date": "2016-04-19",
+    "movie_genre": "Comedy",
+    "director": "Jason Sanchez",
+    "actors": [
+      "Antonio Brown",
+      "Brandon Perez",
+      "Brandy Kelley",
+      "Laura Ellis"
+    ],
+    "rating": 3.9,
+    "description": "Million method increase remember final production. Growth church dark between war worry back. Role similar occur never movie.",
+    "duration": 138,
+    "reviews": [
+      "Daughter development religious serve too among certainly.",
+      "Pattern since foot explain.",
+      "There song total."
+    ],
+    "budget": 83320661,
+    "country": "France",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 106,
+    "movie_title": "Sort thing",
+    "release_date": "2020-04-09",
+    "movie_genre": "Drama",
+    "director": "Carol Simpson",
+    "actors": [
+      "Johnny Harper",
+      "Steven Phillips",
+      "Michelle Anderson",
+      "Deanna Myers",
+      "Pedro Alexander"
+    ],
+    "rating": 8.5,
+    "description": "Election health ago woman wind public anyone. Father myself maybe sound hospital. Commercial Congress campaign cost.",
+    "duration": 143,
+    "reviews": [
+      "Good across goal certain.",
+      "Show grow page."
+    ],
+    "budget": 46785347,
+    "country": "France",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 107,
+    "movie_title": "Partner agent",
+    "release_date": "2024-10-09",
+    "movie_genre": "Drama",
+    "director": "Tammy Holland",
+    "actors": [
+      "Maureen Brown",
+      "Sara King",
+      "Antonio Brown",
+      "Tyler Graham"
+    ],
+    "rating": 5.4,
+    "description": "Field her large day matter note. Since accept large company respond different glass improve. Small stage nation.",
+    "duration": 80,
+    "reviews": [
+      "Speak course door of both set.",
+      "Report message agreement seat.",
+      "Probably cup region indicate true maintain color."
+    ],
+    "budget": 14282516,
+    "country": "Germany",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 108,
+    "movie_title": "Bar treatment how",
+    "release_date": "2016-01-16",
+    "movie_genre": "Adventure",
+    "director": "Christie Miller",
+    "actors": [
+      "Pedro Alexander",
+      "Phillip Gray"
+    ],
+    "rating": 5.4,
+    "description": "Cultural world range feeling. Police action total audience he security one. Bring value suggest church else.",
+    "duration": 127,
+    "reviews": [
+      "Then report day wonder big.",
+      "Institution account that responsibility blood this trial."
+    ],
+    "budget": 132451926,
+    "country": "Germany",
+    "language": "Japanese",
+    "addFav": false
+  },
+  {
+    "id": 109,
+    "movie_title": "Bring camera",
+    "release_date": "2019-04-01",
+    "movie_genre": "Comedy",
+    "director": "Angela Cunningham",
+    "actors": [
+      "Spencer Jones",
+      "James Dunlap",
+      "Barbara Trujillo"
+    ],
+    "rating": 9.1,
+    "description": "Side alone agree ahead accept suggest anything. Really agent each day southern sort garden. When language professor write.",
+    "duration": 118,
+    "reviews": [
+      "Senior spend cold spring.",
+      "Front hot brother beyond."
+    ],
+    "budget": 30709270,
+    "country": "UK",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 110,
+    "movie_title": "However figure paper",
+    "release_date": "2019-04-11",
+    "movie_genre": "Sci-Fi",
+    "director": "Jon Rogers",
+    "actors": [
+      "Ashley Hughes",
+      "Tyler Graham",
+      "Mr. Robert Bishop",
+      "Donna Sanders"
+    ],
+    "rating": 7.1,
+    "description": "Bag her themselves possible. Chair grow wait.\nBorn fine size old. Both read Republican. Kitchen of major fish.",
+    "duration": 86,
+    "reviews": [
+      "Couple few share impact."
+    ],
+    "budget": 100485729,
+    "country": "USA",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 111,
+    "movie_title": "Interest public",
+    "release_date": "2016-09-05",
+    "movie_genre": "Sci-Fi",
+    "director": "Ashley Carroll",
+    "actors": [
+      "Ashley Hughes",
+      "Maureen Brown",
+      "Michelle Anderson",
+      "Laura Martin"
+    ],
+    "rating": 8.5,
+    "description": "Identify machine force bad few box. Fast great fear boy. Government argue technology.\nWorker guy share.",
+    "duration": 164,
+    "reviews": [
+      "Phone church other wait interesting set.",
+      "Herself partner game position read.",
+      "Evening act among change billion kitchen local.",
+      "It scene book expect."
+    ],
+    "budget": 41714115,
+    "country": "France",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 112,
+    "movie_title": "Hospital dinner",
+    "release_date": "2018-01-09",
+    "movie_genre": "Drama",
+    "director": "Harold Burns",
+    "actors": [
+      "Karen Rose",
+      "Michael Skinner"
+    ],
+    "rating": 6.1,
+    "description": "Possible trip international hard order. Local play thought many skin left.",
+    "duration": 138,
+    "reviews": [
+      "Report treatment top newspaper man sport.",
+      "Smile eat until paper cup.",
+      "Try read official."
+    ],
+    "budget": 137962684,
+    "country": "UK",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 113,
+    "movie_title": "By either center",
+    "release_date": "2021-03-03",
+    "movie_genre": "Horror",
+    "director": "Grace Brewer",
+    "actors": [
+      "Laura Martin",
+      "Cynthia Garcia",
+      "Donna Sanders",
+      "Jennifer Thomas",
+      "Sylvia Chavez"
+    ],
+    "rating": 9.3,
+    "description": "Officer lot job guess book must change. Develop every like fact a. Today town discuss billion. Authority walk begin allow entire let strategy.",
+    "duration": 93,
+    "reviews": [
+      "Town not rock subject something blue.",
+      "Gun relationship when power view give support foot.",
+      "Manager pick art different too sport but.",
+      "American reason always."
+    ],
+    "budget": 167589730,
+    "country": "UK",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 114,
+    "movie_title": "Summer mouth just",
+    "release_date": "2020-11-02",
+    "movie_genre": "Adventure",
+    "director": "Stephanie Thomas",
+    "actors": [
+      "Elizabeth Jackson",
+      "Antonio Brown",
+      "Christopher Deleon",
+      "Kaylee Reed"
+    ],
+    "rating": 6.9,
+    "description": "Later last animal conference. Mother beyond economy perform enjoy attention likely.",
+    "duration": 174,
+    "reviews": [
+      "Impact officer together computer fall state might.",
+      "Believe drive race reality.",
+      "Deal year ago every toward six turn.",
+      "Raise main analysis pay."
+    ],
+    "budget": 7166394,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 115,
+    "movie_title": "Analysis figure",
+    "release_date": "2020-09-24",
+    "movie_genre": "Drama",
+    "director": "Preston Mullins",
+    "actors": [
+      "Alexander Olson",
+      "Carmen Walter",
+      "Deanna Myers"
+    ],
+    "rating": 6.5,
+    "description": "Thing consumer drive early billion. Third determine no themselves civil order forget value. Chair including tax available benefit.",
+    "duration": 98,
+    "reviews": [
+      "So point decade system trial interesting apply rather."
+    ],
+    "budget": 38160088,
+    "country": "Germany",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 116,
+    "movie_title": "Job voice security",
+    "release_date": "2025-01-10",
+    "movie_genre": "Fantasy",
+    "director": "Casey Flores",
+    "actors": [
+      "Donald Rose",
+      "Brandon Perez"
+    ],
+    "rating": 3.7,
+    "description": "Character girl practice let want.",
+    "duration": 175,
+    "reviews": [
+      "First should consumer dinner a green.",
+      "Decide teach this.",
+      "Call entire especially contain here instead long indeed.",
+      "Truth least leave."
+    ],
+    "budget": 131064272,
+    "country": "South Korea",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 117,
+    "movie_title": "Black way move",
+    "release_date": "2019-11-25",
+    "movie_genre": "Comedy",
+    "director": "Robert Price",
+    "actors": [
+      "Pedro Alexander",
+      "Charlene Baker",
+      "Ronald Bender",
+      "Deanna Myers",
+      "Jason Martinez"
+    ],
+    "rating": 7.8,
+    "description": "Newspaper own cause attack as guess of natural. Oil despite involve change. Arm throughout letter citizen. Begin even central.",
+    "duration": 176,
+    "reviews": [
+      "Even everyone yeah magazine.",
+      "Career score responsibility research there measure board.",
+      "News popular idea tell affect certainly station."
+    ],
+    "budget": 92386709,
+    "country": "Germany",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 118,
+    "movie_title": "Try",
+    "release_date": "2025-02-09",
+    "movie_genre": "Action",
+    "director": "Ronnie Fleming",
+    "actors": [
+      "Barbara Trujillo",
+      "Erica Hawkins",
+      "Steven Phillips"
+    ],
+    "rating": 4.3,
+    "description": "Vote interesting weight reason stage ready case.",
+    "duration": 174,
+    "reviews": [
+      "Player scientist avoid take baby.",
+      "Leave debate main room."
+    ],
+    "budget": 115648529,
+    "country": "Canada",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 119,
+    "movie_title": "Card consider ball",
+    "release_date": "2022-10-27",
+    "movie_genre": "Thriller",
+    "director": "Heather Cross",
+    "actors": [
+      "Jason Martinez",
+      "Donald Rose",
+      "Charlene Baker"
+    ],
+    "rating": 7.4,
+    "description": "Respond support person for serve. Matter join budget. Dinner fear operation address nation make art choose.",
+    "duration": 122,
+    "reviews": [
+      "Again box determine course walk many.",
+      "But food husband remain his page enjoy.",
+      "About find leave since society national."
+    ],
+    "budget": 142029725,
+    "country": "Canada",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 120,
+    "movie_title": "Black hold",
+    "release_date": "2016-07-26",
+    "movie_genre": "Thriller",
+    "director": "Thomas Rice",
+    "actors": [
+      "Laura Martin",
+      "Juan Munoz",
+      "Ashley Hughes",
+      "Phillip Gray",
+      "Sara King"
+    ],
+    "rating": 5.5,
+    "description": "Yeah security represent upon article month understand series. Likely enter old letter half born. Size heart alone in statement continue.",
+    "duration": 140,
+    "reviews": [
+      "Close travel step serious wear size nice.",
+      "Music else by trip bad personal.",
+      "Crime issue call agreement effect network."
+    ],
+    "budget": 196086990,
+    "country": "France",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 121,
+    "movie_title": "Law actually",
+    "release_date": "2018-12-04",
+    "movie_genre": "Adventure",
+    "director": "Hunter May",
+    "actors": [
+      "Christopher Deleon",
+      "Robin Munoz",
+      "Ronald Bender",
+      "Sylvia Chavez",
+      "Mr. Robert Bishop"
+    ],
+    "rating": 7.8,
+    "description": "Leave instead position development picture. Third message represent notice white. Marriage quite thus.",
+    "duration": 123,
+    "reviews": [
+      "Stock nearly suffer behind natural.",
+      "Live instead friend."
+    ],
+    "budget": 8400185,
+    "country": "UK",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 122,
+    "movie_title": "Also guess",
+    "release_date": "2018-12-03",
+    "movie_genre": "Comedy",
+    "director": "Angel Garcia",
+    "actors": [
+      "Pedro Alexander",
+      "Kaylee Reed",
+      "Deanna Myers",
+      "Ellen Evans",
+      "Juan Munoz"
+    ],
+    "rating": 8.6,
+    "description": "Find can coach clear. Minute if certainly image artist work physical. Although debate above attack page.",
+    "duration": 85,
+    "reviews": [
+      "Finally easy push ready senior computer.",
+      "Modern including someone officer cold mother.",
+      "Environmental chance for ground action wide only how."
+    ],
+    "budget": 157868603,
+    "country": "Japan",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 123,
+    "movie_title": "Require much enough",
+    "release_date": "2016-08-28",
+    "movie_genre": "Comedy",
+    "director": "Sherri Lewis",
+    "actors": [
+      "Spencer Jones",
+      "Karen Rose",
+      "Elizabeth Jackson",
+      "Michelle Anderson",
+      "Carmen Walter"
+    ],
+    "rating": 4.4,
+    "description": "Down professional offer community minute. Paper prepare almost hear civil.",
+    "duration": 175,
+    "reviews": [
+      "Bill fire he significant.",
+      "Base agency yourself reason should action development."
+    ],
+    "budget": 36122625,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 124,
+    "movie_title": "Represent line eight",
+    "release_date": "2019-07-04",
+    "movie_genre": "Horror",
+    "director": "Randy Dominguez",
+    "actors": [
+      "Maureen Brown",
+      "Laura Bradley",
+      "Virginia Bell",
+      "Brandy Kelley"
+    ],
+    "rating": 8.9,
+    "description": "Hour reflect alone others. Ago end both likely. Fish successful arrive soldier adult direction success.",
+    "duration": 138,
+    "reviews": [
+      "Open total senior."
+    ],
+    "budget": 19171950,
+    "country": "Canada",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 125,
+    "movie_title": "Child big police",
+    "release_date": "2019-04-11",
+    "movie_genre": "Horror",
+    "director": "Adam Mcpherson",
+    "actors": [
+      "Laura Martin",
+      "Juan Munoz",
+      "Kaylee Reed",
+      "Ian Griffin",
+      "Elizabeth Jackson"
+    ],
+    "rating": 5.7,
+    "description": "A American provide people customer along buy. Run bar eat how.",
+    "duration": 106,
+    "reviews": [
+      "Our south recent they respond attack me physical.",
+      "Politics agency star theory serious dog meet.",
+      "Mr police have development notice reality majority."
+    ],
+    "budget": 72328054,
+    "country": "France",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 126,
+    "movie_title": "Eat boy adult",
+    "release_date": "2017-08-05",
+    "movie_genre": "Thriller",
+    "director": "Brianna Williams",
+    "actors": [
+      "Laura Martin",
+      "Cynthia Garcia",
+      "Benjamin Daniel",
+      "Mr. Robert Bishop",
+      "Austin Smith"
+    ],
+    "rating": 6.9,
+    "description": "Foreign open morning group many point five. Manage father media difficult speech leader.",
+    "duration": 92,
+    "reviews": [
+      "Early feeling race poor movie."
+    ],
+    "budget": 4449112,
+    "country": "USA",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 127,
+    "movie_title": "Toward read safe",
+    "release_date": "2022-01-20",
+    "movie_genre": "Sci-Fi",
+    "director": "Jamie Martinez",
+    "actors": [
+      "Michelle Anderson",
+      "Johnny Harper",
+      "Sara King"
+    ],
+    "rating": 3.8,
+    "description": "Man talk become do red. Protect foreign thing either system near however bring. Black teach growth your.",
+    "duration": 166,
+    "reviews": [
+      "Phone such either nice today bring.",
+      "Quality major believe Mrs."
+    ],
+    "budget": 9052724,
+    "country": "Germany",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 128,
+    "movie_title": "Give food",
+    "release_date": "2019-03-10",
+    "movie_genre": "Comedy",
+    "director": "Elizabeth Floyd",
+    "actors": [
+      "Brandon Perez",
+      "Robin Munoz"
+    ],
+    "rating": 7.8,
+    "description": "Better industry where three despite price. Word line organization able treatment. Simple appear now turn black media better.",
+    "duration": 97,
+    "reviews": [
+      "Discuss technology as population rise three door.",
+      "Already herself paper.",
+      "Everything hundred anyone industry production century really."
+    ],
+    "budget": 142314491,
+    "country": "France",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 129,
+    "movie_title": "Shake",
+    "release_date": "2023-02-01",
+    "movie_genre": "Sci-Fi",
+    "director": "Michael Hampton",
+    "actors": [
+      "Alexander Olson",
+      "Steven Phillips",
+      "Sara King"
+    ],
+    "rating": 3.9,
+    "description": "Past car game when. Describe lose serious. In yard authority door service peace.",
+    "duration": 169,
+    "reviews": [
+      "College police environmental provide I.",
+      "Color do base above close scene economic.",
+      "Lose help according.",
+      "Ago enjoy finally idea last."
+    ],
+    "budget": 141877470,
+    "country": "USA",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 130,
+    "movie_title": "Conference many",
+    "release_date": "2021-09-01",
+    "movie_genre": "Comedy",
+    "director": "Kathleen Thomas",
+    "actors": [
+      "Donald Rose",
+      "Maureen Brown",
+      "Karen Rose",
+      "Steven Phillips",
+      "Ellen Evans"
+    ],
+    "rating": 8.3,
+    "description": "Need wind between rest learn professional wear. Also even ready maintain at. Ever story nature back plan join party.",
+    "duration": 160,
+    "reviews": [
+      "Sound more support to.",
+      "Let and there respond recent month police.",
+      "Big major side it training."
+    ],
+    "budget": 161122286,
+    "country": "Germany",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 131,
+    "movie_title": "Put four already",
+    "release_date": "2015-10-22",
+    "movie_genre": "Action",
+    "director": "Kevin Johnson",
+    "actors": [
+      "James Dunlap",
+      "Laura Bradley",
+      "Ellen Evans",
+      "Cynthia Garcia"
+    ],
+    "rating": 7.0,
+    "description": "Group movement national present direction.\nKnowledge gun deep media often produce represent. Serve head bank try spend.",
+    "duration": 105,
+    "reviews": [
+      "She environmental candidate before.",
+      "Music budget probably pressure television."
+    ],
+    "budget": 191591590,
+    "country": "France",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 132,
+    "movie_title": "Six deal information",
+    "release_date": "2015-09-14",
+    "movie_genre": "Horror",
+    "director": "Richard Johnson",
+    "actors": [
+      "Sara King",
+      "Laura Martin",
+      "Carmen Walter",
+      "Mary Jones"
+    ],
+    "rating": 3.6,
+    "description": "Activity force represent option field talk. Work color price yourself his before.",
+    "duration": 154,
+    "reviews": [
+      "Range media husband report yard final five.",
+      "Receive much raise degree you.",
+      "Suddenly reach head rise trade war.",
+      "Sound church different six give understand true campaign."
+    ],
+    "budget": 48069758,
+    "country": "Canada",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 133,
+    "movie_title": "Race build",
+    "release_date": "2024-02-24",
+    "movie_genre": "Comedy",
+    "director": "Joe Davis",
+    "actors": [
+      "Mary Jones",
+      "Phillip Gray",
+      "Elizabeth Jackson"
+    ],
+    "rating": 7.6,
+    "description": "Bill side protect. Reflect building since relate policy hard. Memory world us full possible Mr along.",
+    "duration": 80,
+    "reviews": [
+      "Player edge talk resource admit social.",
+      "Strategy system article nothing particularly sense.",
+      "Executive eight operation job American land attorney win."
+    ],
+    "budget": 34195297,
+    "country": "Germany",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 134,
+    "movie_title": "Figure happy",
+    "release_date": "2016-07-19",
+    "movie_genre": "Action",
+    "director": "Joshua Johnson",
+    "actors": [
+      "Victoria Schultz",
+      "Christopher Deleon",
+      "Tyler Graham",
+      "James Dunlap"
+    ],
+    "rating": 9.4,
+    "description": "Thank kid a treatment through management painting free.\nEvery director second suddenly level management thousand. Wish benefit role woman us shake.",
+    "duration": 146,
+    "reviews": [
+      "Behavior itself class scientist.",
+      "Only sign tough my phone should."
+    ],
+    "budget": 21819580,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 135,
+    "movie_title": "Other wear before",
+    "release_date": "2021-02-17",
+    "movie_genre": "Action",
+    "director": "Ryan Smith",
+    "actors": [
+      "Donald Rose",
+      "Jennifer Thomas"
+    ],
+    "rating": 6.2,
+    "description": "President they language deep country fire part. Whose treatment light majority case.\nDream trip keep. Same to throughout reflect.",
+    "duration": 92,
+    "reviews": [
+      "Whom sing practice discuss trade or none various.",
+      "Thing answer my staff.",
+      "Miss hold mention with ball avoid."
+    ],
+    "budget": 123747800,
+    "country": "South Korea",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 136,
+    "movie_title": "Which camera it",
+    "release_date": "2016-01-08",
+    "movie_genre": "Comedy",
+    "director": "Michelle Blackwell",
+    "actors": [
+      "Sara King",
+      "Victoria Schultz",
+      "Jennifer Thomas",
+      "Cynthia Garcia",
+      "Elizabeth Jackson"
+    ],
+    "rating": 3.1,
+    "description": "News environmental production coach other establish theory. Decision student standard ground other.",
+    "duration": 123,
+    "reviews": [
+      "Prove seem four relate health enter.",
+      "Just start later anything.",
+      "Society probably near or news watch."
+    ],
+    "budget": 48512760,
+    "country": "USA",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 137,
+    "movie_title": "Two skin",
+    "release_date": "2023-09-13",
+    "movie_genre": "Horror",
+    "director": "Sarah Sanford",
+    "actors": [
+      "Barbara Trujillo",
+      "Elizabeth Jackson",
+      "Sara King"
+    ],
+    "rating": 5.1,
+    "description": "Edge these general artist check remember. Republican up fact season subject. Than exactly worry instead own she candidate.",
+    "duration": 178,
+    "reviews": [
+      "Democrat civil maintain Mr top bad late.",
+      "Degree more down month opportunity line political marriage.",
+      "Technology any be sister player everything.",
+      "Structure rock others movement sort offer Mrs."
+    ],
+    "budget": 135589202,
+    "country": "Japan",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 138,
+    "movie_title": "Physical",
+    "release_date": "2023-12-30",
+    "movie_genre": "Drama",
+    "director": "Laura Daniels",
+    "actors": [
+      "Jason Martinez",
+      "Spencer Jones",
+      "Phillip Gray",
+      "Alexander Olson"
+    ],
+    "rating": 5.4,
+    "description": "Best security good from. Out leg fall three church side. Senior couple approach enter than.",
+    "duration": 107,
+    "reviews": [
+      "Theory sound cost state.",
+      "Already physical assume task real."
+    ],
+    "budget": 55212106,
+    "country": "France",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 139,
+    "movie_title": "Small current argue",
+    "release_date": "2019-01-21",
+    "movie_genre": "Adventure",
+    "director": "Lauren Cole",
+    "actors": [
+      "Donald Rose",
+      "Ronald Bender",
+      "Virginia Bell",
+      "Mary Jones",
+      "Christopher Deleon"
+    ],
+    "rating": 7.2,
+    "description": "Fact task many east however something participant. Someone Congress smile do rise budget development collection. Ask pass manage level.",
+    "duration": 115,
+    "reviews": [
+      "Anything black can might.",
+      "Sometimes common detail front two community financial.",
+      "Seat sure too.",
+      "Culture chair forward us my."
+    ],
+    "budget": 8468404,
+    "country": "USA",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 140,
+    "movie_title": "Bank born",
+    "release_date": "2015-09-24",
+    "movie_genre": "Romance",
+    "director": "Martha Smith",
+    "actors": [
+      "Alexander Olson",
+      "Phillip Gray",
+      "Steven Phillips",
+      "Kaylee Reed",
+      "Donna Sanders"
+    ],
+    "rating": 7.3,
+    "description": "Measure fact create time accept. Media trip use own something measure compare foot. Return economic best quality and happy direction.",
+    "duration": 173,
+    "reviews": [
+      "Total company heavy century.",
+      "Present yourself baby imagine represent group agent."
+    ],
+    "budget": 137350600,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 141,
+    "movie_title": "Understand international",
+    "release_date": "2022-09-21",
+    "movie_genre": "Drama",
+    "director": "Melissa Banks",
+    "actors": [
+      "Elizabeth Jackson",
+      "Phillip Gray",
+      "Laura Bradley"
+    ],
+    "rating": 9.4,
+    "description": "Occur center shake family remain. Establish economic force appear suggest.",
+    "duration": 103,
+    "reviews": [
+      "Without just boy describe simple.",
+      "Man maintain check we culture kind player.",
+      "New sister major."
+    ],
+    "budget": 108354337,
+    "country": "UK",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 142,
+    "movie_title": "Light PM traditional",
+    "release_date": "2019-12-15",
+    "movie_genre": "Romance",
+    "director": "Julie Bowman",
+    "actors": [
+      "Phillip Gray",
+      "Mr. Robert Bishop"
+    ],
+    "rating": 5.9,
+    "description": "Television table write high source policy down. Could example good approach reach record scene.",
+    "duration": 82,
+    "reviews": [
+      "Ability system degree student."
+    ],
+    "budget": 116516146,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 143,
+    "movie_title": "Explain pretty I",
+    "release_date": "2021-11-19",
+    "movie_genre": "Action",
+    "director": "Courtney Clark",
+    "actors": [
+      "Johnny Harper",
+      "Robin Munoz",
+      "Ellen Evans",
+      "Maureen Brown"
+    ],
+    "rating": 5.1,
+    "description": "Me however sea collection. Standard occur go other nation concern he.\nWhose before would fish entire stock.",
+    "duration": 142,
+    "reviews": [
+      "Full heart fill officer growth.",
+      "Perform how cell able experience.",
+      "Else seven itself animal debate my ability.",
+      "Again baby contain natural condition since continue."
+    ],
+    "budget": 151864735,
+    "country": "South Korea",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 144,
+    "movie_title": "Certain action",
+    "release_date": "2024-10-10",
+    "movie_genre": "Adventure",
+    "director": "Jay White",
+    "actors": [
+      "Brandy Kelley",
+      "James Dunlap"
+    ],
+    "rating": 4.9,
+    "description": "American special push we. Both two station Republican gas decade. Whom kind resource green college.",
+    "duration": 113,
+    "reviews": [
+      "Argue ready reach indeed others charge those."
+    ],
+    "budget": 60203388,
+    "country": "UK",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 145,
+    "movie_title": "Out newspaper",
+    "release_date": "2020-10-12",
+    "movie_genre": "Drama",
+    "director": "Craig Hunt",
+    "actors": [
+      "Brandon Perez",
+      "Jason Martinez"
+    ],
+    "rating": 3.6,
+    "description": "Allow film ability performance. Just drive remain three understand group.\nServe account ten leader account hope. Total I cost power.",
+    "duration": 116,
+    "reviews": [
+      "Item authority family side.",
+      "Sport forward form yet.",
+      "Current let leave."
+    ],
+    "budget": 189047286,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 146,
+    "movie_title": "Middle young ahead",
+    "release_date": "2022-09-30",
+    "movie_genre": "Comedy",
+    "director": "Michelle Young",
+    "actors": [
+      "Sara King",
+      "Joseph Campbell",
+      "Ronald Bender",
+      "Deanna Myers"
+    ],
+    "rating": 8.0,
+    "description": "Any lose father rise. War main increase catch spring fill TV.\nTop statement laugh cover. Blue require painting marriage find support concern.",
+    "duration": 101,
+    "reviews": [
+      "Follow assume though per instead region nature."
+    ],
+    "budget": 86418347,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 147,
+    "movie_title": "Name actually",
+    "release_date": "2016-06-09",
+    "movie_genre": "Thriller",
+    "director": "Tiffany Fisher",
+    "actors": [
+      "Charlene Baker",
+      "Sara King",
+      "Deanna Myers",
+      "Maureen Brown",
+      "Cynthia Garcia"
+    ],
+    "rating": 7.7,
+    "description": "Both mother we foreign south word. Know community person necessary walk.",
+    "duration": 87,
+    "reviews": [
+      "In test again have less almost yeah.",
+      "Our certain various stock reflect hundred home.",
+      "Career security center health thing miss."
+    ],
+    "budget": 187554046,
+    "country": "Germany",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 148,
+    "movie_title": "Ok whom",
+    "release_date": "2023-05-05",
+    "movie_genre": "Sci-Fi",
+    "director": "Jamie Bass",
+    "actors": [
+      "Charlene Baker",
+      "James Dunlap",
+      "Austin Smith",
+      "Pedro Alexander"
+    ],
+    "rating": 4.7,
+    "description": "Clear grow light help it. Sister another poor treatment. Order project mention take it bag choose box.",
+    "duration": 136,
+    "reviews": [
+      "Before mean herself car.",
+      "Wear yet bit lay.",
+      "Move officer wear."
+    ],
+    "budget": 37284840,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 149,
+    "movie_title": "Someone strong during",
+    "release_date": "2024-10-01",
+    "movie_genre": "Thriller",
+    "director": "Benjamin Andrews",
+    "actors": [
+      "Virginia Bell",
+      "Jason Martinez",
+      "Ronald Bender",
+      "Eric Anthony",
+      "Barbara Trujillo"
+    ],
+    "rating": 7.3,
+    "description": "Career spring trouble us city. Be student hospital sport.",
+    "duration": 91,
+    "reviews": [
+      "Build book beat billion police second cause.",
+      "Leave minute the single wrong.",
+      "Anything seat market your indicate time else."
+    ],
+    "budget": 30633170,
+    "country": "France",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 150,
+    "movie_title": "Leave series",
+    "release_date": "2024-12-17",
+    "movie_genre": "Horror",
+    "director": "Ms. Molly Bullock",
+    "actors": [
+      "Johnny Harper",
+      "Alexander Olson",
+      "Sara King",
+      "Barbara Trujillo",
+      "Brandon Perez"
+    ],
+    "rating": 6.3,
+    "description": "Performance candidate song federal just eight inside. Pretty hair letter if listen democratic. Very production let south audience call.",
+    "duration": 171,
+    "reviews": [
+      "Receive imagine society simple hold seem career young.",
+      "Yourself ok hot order language."
+    ],
+    "budget": 8756217,
+    "country": "USA",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 151,
+    "movie_title": "Feeling some",
+    "release_date": "2020-09-01",
+    "movie_genre": "Sci-Fi",
+    "director": "Sean Sosa",
+    "actors": [
+      "Elizabeth Jackson",
+      "Steven Phillips",
+      "Juan Munoz"
+    ],
+    "rating": 4.3,
+    "description": "Oil watch fill rule machine. Station late then same.\nReality idea soon with. Least thank beyond its. Leg indeed reality food bad.",
+    "duration": 122,
+    "reviews": [
+      "Than very serious kind between best."
+    ],
+    "budget": 54834179,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 152,
+    "movie_title": "Smile my them",
+    "release_date": "2024-01-23",
+    "movie_genre": "Horror",
+    "director": "Thomas Patterson",
+    "actors": [
+      "Juan Munoz",
+      "Ellen Evans"
+    ],
+    "rating": 6.9,
+    "description": "Win value commercial else. Man break mean natural himself. Point remember compare behavior.\nBrother price federal move. Work happy outside best wall.",
+    "duration": 157,
+    "reviews": [
+      "Central shoulder impact reflect tonight.",
+      "Staff year international good support."
+    ],
+    "budget": 30920695,
+    "country": "Germany",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 153,
+    "movie_title": "Measure political",
+    "release_date": "2017-07-20",
+    "movie_genre": "Drama",
+    "director": "Jose Phillips",
+    "actors": [
+      "Alexander Olson",
+      "Johnny Harper",
+      "Eric Anthony",
+      "Ellen Evans"
+    ],
+    "rating": 6.2,
+    "description": "Building bed because technology let. Can through area tell PM. Gun second child she into lay represent since.",
+    "duration": 150,
+    "reviews": [
+      "Explain future believe water possible movie when."
+    ],
+    "budget": 14618788,
+    "country": "South Korea",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 154,
+    "movie_title": "Imagine likely sister may",
+    "release_date": "2024-05-27",
+    "movie_genre": "Fantasy",
+    "director": "Tammy Smith",
+    "actors": [
+      "Melanie Mccarty",
+      "Juan Munoz",
+      "Virginia Bell",
+      "Joseph Campbell",
+      "Jason Martinez"
+    ],
+    "rating": 4.7,
+    "description": "Eye close international interview enjoy these.\nCommon walk Congress voice growth two there during. Attorney society should put up.",
+    "duration": 153,
+    "reviews": [
+      "Turn class have article wind purpose report.",
+      "Collection right writer.",
+      "Move keep they themselves rule newspaper.",
+      "Final effect such arrive walk treatment."
+    ],
+    "budget": 103877978,
+    "country": "France",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 155,
+    "movie_title": "Few probably everything",
+    "release_date": "2015-06-11",
+    "movie_genre": "Comedy",
+    "director": "Justin George",
+    "actors": [
+      "Robin Munoz",
+      "James Dunlap",
+      "Melanie Mccarty",
+      "Kaylee Reed"
+    ],
+    "rating": 9.3,
+    "description": "See sort happen baby. Imagine both send general affect nearly. Summer chair no add right grow.",
+    "duration": 167,
+    "reviews": [
+      "Imagine between television see play because although.",
+      "Term certainly happen white national firm recent.",
+      "Read artist fast everything."
+    ],
+    "budget": 133612793,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 156,
+    "movie_title": "Class whom north",
+    "release_date": "2018-02-17",
+    "movie_genre": "Thriller",
+    "director": "Robert Barajas",
+    "actors": [
+      "Michelle Anderson",
+      "Mr. Robert Bishop",
+      "Charlene Baker"
+    ],
+    "rating": 3.8,
+    "description": "Reach avoid a two paper. Song usually more along.",
+    "duration": 162,
+    "reviews": [
+      "Bring soldier theory gun.",
+      "Knowledge open child western later scene.",
+      "Piece boy development century."
+    ],
+    "budget": 89584290,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 157,
+    "movie_title": "Than others",
+    "release_date": "2023-05-14",
+    "movie_genre": "Horror",
+    "director": "Gary Green",
+    "actors": [
+      "Maureen Brown",
+      "Sylvia Chavez",
+      "Spencer Jones",
+      "Brandy Kelley",
+      "Laura Bradley"
+    ],
+    "rating": 6.3,
+    "description": "Cover its degree though feeling.\nPeace close sign spring contain series. Machine man hand entire.",
+    "duration": 119,
+    "reviews": [
+      "Eye picture develop wall east station program."
+    ],
+    "budget": 168555800,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 158,
+    "movie_title": "Task sister",
+    "release_date": "2023-10-21",
+    "movie_genre": "Action",
+    "director": "Michael Moore",
+    "actors": [
+      "Jason Martinez",
+      "Austin Smith"
+    ],
+    "rating": 8.2,
+    "description": "Without heart manager art ball even. Attorney after wall before drug girl hot.\nTree quality number sit. More agree commercial analysis race you body.",
+    "duration": 87,
+    "reviews": [
+      "Rock she article bit physical pressure such.",
+      "Wife strong medical detail be effect."
+    ],
+    "budget": 182289504,
+    "country": "Japan",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 159,
+    "movie_title": "Paper",
+    "release_date": "2019-01-24",
+    "movie_genre": "Horror",
+    "director": "Justin Little",
+    "actors": [
+      "Johnny Harper",
+      "Austin Smith"
+    ],
+    "rating": 9.2,
+    "description": "Include meeting during age pretty. Time control eat investment mission law.",
+    "duration": 153,
+    "reviews": [
+      "Finish power sense brother expect word."
+    ],
+    "budget": 193980000,
+    "country": "Japan",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 160,
+    "movie_title": "Ball state new baby",
+    "release_date": "2016-10-31",
+    "movie_genre": "Action",
+    "director": "Robin Le",
+    "actors": [
+      "Mary Jones",
+      "Jennifer Thomas",
+      "Austin Smith"
+    ],
+    "rating": 3.5,
+    "description": "Anyone peace thus serious. Technology hope hold same assume agent financial. Dark economy rich determine similar build dark.",
+    "duration": 125,
+    "reviews": [
+      "Site series watch customer main feel wait office.",
+      "Community discuss them bill.",
+      "Loss station former yes free everyone.",
+      "Item strategy blue dog result catch."
+    ],
+    "budget": 76486884,
+    "country": "USA",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 161,
+    "movie_title": "Own strategy positive",
+    "release_date": "2018-05-01",
+    "movie_genre": "Adventure",
+    "director": "Aaron Reed",
+    "actors": [
+      "Cynthia Garcia",
+      "Deanna Myers",
+      "Jennifer Thomas",
+      "Laura Martin",
+      "Eric Anthony"
+    ],
+    "rating": 5.4,
+    "description": "Tend suffer population action leader where indeed. Laugh leader into enjoy. Window six form left.",
+    "duration": 109,
+    "reviews": [
+      "Watch between want imagine bar get month good.",
+      "Large unit listen tree learn center pattern.",
+      "Agency lay wonder decision.",
+      "Computer activity draw throw include matter kind clearly."
+    ],
+    "budget": 172607625,
+    "country": "Germany",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 162,
+    "movie_title": "Huge difference plant",
+    "release_date": "2022-10-19",
+    "movie_genre": "Romance",
+    "director": "Melanie Simmons",
+    "actors": [
+      "Laura Bradley",
+      "Laura Ellis",
+      "Robin Munoz"
+    ],
+    "rating": 6.3,
+    "description": "Organization leg view continue culture everybody. Follow in ball despite mention cultural.",
+    "duration": 139,
+    "reviews": [
+      "Threat garden bring always source whole ground push.",
+      "Risk military report certain peace."
+    ],
+    "budget": 80985693,
+    "country": "Japan",
+    "language": "French",
+    "addFav": true
+  },
+  {
+    "id": 163,
+    "movie_title": "Huge ask",
+    "release_date": "2017-10-26",
+    "movie_genre": "Horror",
+    "director": "Gregory Delgado",
+    "actors": [
+      "Ronald Bender",
+      "Alexander Olson",
+      "Michelle Anderson",
+      "Ian Griffin",
+      "Eric Anthony"
+    ],
+    "rating": 9.3,
+    "description": "Per administration cut to down Mr firm. Result our cause low daughter. Within save financial father though hold issue.",
+    "duration": 121,
+    "reviews": [
+      "Theory total chair resource possible born dream.",
+      "Time just pass consumer amount night."
+    ],
+    "budget": 154833606,
+    "country": "Japan",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 164,
+    "movie_title": "More way hit",
+    "release_date": "2024-11-15",
+    "movie_genre": "Drama",
+    "director": "John Walker",
+    "actors": [
+      "Benjamin Daniel",
+      "Charlene Baker",
+      "Steven Phillips",
+      "Elizabeth Jackson"
+    ],
+    "rating": 6.6,
+    "description": "Wife if wrong where. Walk measure prepare these short seem yourself. Practice no wife his TV serve already nor.\nSea about much well everybody woman.",
+    "duration": 156,
+    "reviews": [
+      "Really American real president.",
+      "Require something wonder know deep.",
+      "Recently strong general back."
+    ],
+    "budget": 55810929,
+    "country": "South Korea",
+    "language": "Korean",
+    "addFav": false
+  },
+  {
+    "id": 165,
+    "movie_title": "Think grow",
+    "release_date": "2019-08-26",
+    "movie_genre": "Sci-Fi",
+    "director": "Rose Morales",
+    "actors": [
+      "Johnny Harper",
+      "Eric Anthony",
+      "Michelle Anderson"
+    ],
+    "rating": 8.3,
+    "description": "Quality point past draw wait. Gas or hear oil reach article person.\nFoot issue assume type similar baby.",
+    "duration": 124,
+    "reviews": [
+      "Identify black region.",
+      "Someone strategy soldier participant radio."
+    ],
+    "budget": 8356855,
+    "country": "UK",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 166,
+    "movie_title": "Suffer hope radio",
+    "release_date": "2019-07-19",
+    "movie_genre": "Romance",
+    "director": "Joshua Robinson",
+    "actors": [
+      "Donna Sanders",
+      "Joseph Campbell",
+      "Christopher Deleon",
+      "Sara King",
+      "Mary Jones"
+    ],
+    "rating": 7.1,
+    "description": "Break across protect paper. Anyone institution realize vote receive whom cultural.",
+    "duration": 156,
+    "reviews": [
+      "About spring cut focus foreign inside.",
+      "Us young list good claim ask such."
+    ],
+    "budget": 78456461,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 167,
+    "movie_title": "All station receive",
+    "release_date": "2019-05-07",
+    "movie_genre": "Adventure",
+    "director": "Suzanne Miller",
+    "actors": [
+      "Brandy Kelley",
+      "Antonio Brown",
+      "Mary Jones",
+      "Barbara Trujillo"
+    ],
+    "rating": 3.4,
+    "description": "Go find smile security energy from among. Most discuss cell family government official.",
+    "duration": 103,
+    "reviews": [
+      "Left person find camera culture tax.",
+      "Image clearly break nearly affect three factor.",
+      "Song paper various easy sister local.",
+      "Security account politics pressure PM peace decade."
+    ],
+    "budget": 168502845,
+    "country": "UK",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 168,
+    "movie_title": "Usually writer interview",
+    "release_date": "2020-10-03",
+    "movie_genre": "Thriller",
+    "director": "Nicole Gonzalez",
+    "actors": [
+      "Phillip Gray",
+      "Charlene Baker",
+      "Barbara Trujillo",
+      "Victoria Schultz",
+      "Ian Griffin"
+    ],
+    "rating": 8.8,
+    "description": "Skill value low determine group back. West together never where seat. Technology analysis summer until huge morning.",
+    "duration": 106,
+    "reviews": [
+      "Picture each benefit rest hospital reduce.",
+      "Quality artist debate.",
+      "Room likely almost anyone hand."
+    ],
+    "budget": 1548016,
+    "country": "France",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 169,
+    "movie_title": "Answer throw benefit",
+    "release_date": "2024-10-22",
+    "movie_genre": "Thriller",
+    "director": "Kathleen Bowman",
+    "actors": [
+      "Melanie Mccarty",
+      "Victoria Schultz"
+    ],
+    "rating": 3.7,
+    "description": "Hospital me along let discussion. Result detail partner after card find. Yes finish seat so pattern. Season art happen group establish special with.",
+    "duration": 129,
+    "reviews": [
+      "Car father ready describe anyone person."
+    ],
+    "budget": 76828307,
+    "country": "Germany",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 170,
+    "movie_title": "Respond",
+    "release_date": "2018-07-20",
+    "movie_genre": "Romance",
+    "director": "Tristan Johnson",
+    "actors": [
+      "Robin Munoz",
+      "Erica Hawkins",
+      "Elizabeth Jackson"
+    ],
+    "rating": 9.0,
+    "description": "Rather right adult debate management. Cover building risk everything.",
+    "duration": 151,
+    "reviews": [
+      "Floor direction almost central.",
+      "Around war report experience deal student consumer.",
+      "Thus worker especially before important such.",
+      "Unit authority make view follow represent."
+    ],
+    "budget": 191040684,
+    "country": "USA",
+    "language": "Japanese",
+    "addFav": false
+  },
+  {
+    "id": 171,
+    "movie_title": "Painting",
+    "release_date": "2024-09-09",
+    "movie_genre": "Thriller",
+    "director": "Max Gregory",
+    "actors": [
+      "Loretta Peterson",
+      "Laura Ellis",
+      "Ian Griffin"
+    ],
+    "rating": 8.2,
+    "description": "Only last data one society arm. Certainly more fall score. As about management skill specific either.",
+    "duration": 85,
+    "reviews": [
+      "Your family sport recently have series."
+    ],
+    "budget": 42653065,
+    "country": "France",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 172,
+    "movie_title": "Writer try",
+    "release_date": "2017-11-07",
+    "movie_genre": "Fantasy",
+    "director": "Katelyn Morales",
+    "actors": [
+      "Sara King",
+      "Phillip Gray",
+      "Virginia Bell"
+    ],
+    "rating": 3.7,
+    "description": "Fast not for. Bad so result project employee interest according.",
+    "duration": 145,
+    "reviews": [
+      "Art several heavy require.",
+      "Attorney fear art each point yet store form."
+    ],
+    "budget": 44332139,
+    "country": "Germany",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 173,
+    "movie_title": "Reality",
+    "release_date": "2022-12-04",
+    "movie_genre": "Drama",
+    "director": "Cynthia Norris",
+    "actors": [
+      "Melanie Mccarty",
+      "Donna Sanders"
+    ],
+    "rating": 4.1,
+    "description": "Prevent line system view likely. Fight question table leader often.",
+    "duration": 156,
+    "reviews": [
+      "Agent must floor."
+    ],
+    "budget": 195471257,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 174,
+    "movie_title": "Season treat save",
+    "release_date": "2022-07-31",
+    "movie_genre": "Fantasy",
+    "director": "Maxwell Brewer",
+    "actors": [
+      "Cynthia Garcia",
+      "Ronald Bender"
+    ],
+    "rating": 6.0,
+    "description": "Affect girl sea speak left third. Ever heart half hair forward. State say ahead value forget garden.",
+    "duration": 88,
+    "reviews": [
+      "Bit for little seem seek.",
+      "Plant agent station data memory.",
+      "Citizen must once."
+    ],
+    "budget": 128762135,
+    "country": "UK",
+    "language": "English",
+    "addFav": false
+  },
+  {
+    "id": 175,
+    "movie_title": "Image us seem",
+    "release_date": "2020-03-31",
+    "movie_genre": "Adventure",
+    "director": "Maria White",
+    "actors": [
+      "Robin Munoz",
+      "Alexander Olson",
+      "Erica Hawkins"
+    ],
+    "rating": 9.1,
+    "description": "Describe piece range whole analysis believe. Hold focus nice cup team as office evening.",
+    "duration": 95,
+    "reviews": [
+      "Financial method break."
+    ],
+    "budget": 119277512,
+    "country": "Canada",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 176,
+    "movie_title": "Work daughter",
+    "release_date": "2022-06-28",
+    "movie_genre": "Action",
+    "director": "Donna Henderson",
+    "actors": [
+      "Karen Rose",
+      "Loretta Peterson"
+    ],
+    "rating": 4.8,
+    "description": "Recent national development plan easy world general. Trade however true add life those whether vote. Life none book important.",
+    "duration": 116,
+    "reviews": [
+      "Build word and than information partner."
+    ],
+    "budget": 162163610,
+    "country": "France",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 177,
+    "movie_title": "Five pressure",
+    "release_date": "2015-07-19",
+    "movie_genre": "Drama",
+    "director": "Russell Austin",
+    "actors": [
+      "Ian Griffin",
+      "Donna Sanders",
+      "Brandy Kelley"
+    ],
+    "rating": 5.5,
+    "description": "Fire red itself worry ball. Ever item answer practice.",
+    "duration": 102,
+    "reviews": [
+      "Month woman increase."
+    ],
+    "budget": 142626580,
+    "country": "USA",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 178,
+    "movie_title": "Mr involve phone idea",
+    "release_date": "2021-04-14",
+    "movie_genre": "Comedy",
+    "director": "Lisa Anderson",
+    "actors": [
+      "Erica Hawkins",
+      "Terri Howard",
+      "Kaylee Reed",
+      "Ellen Evans"
+    ],
+    "rating": 3.4,
+    "description": "Reflect billion west reduce course. General draw action money news everyone. Bag perhaps report certain customer begin once.",
+    "duration": 161,
+    "reviews": [
+      "What show lot fire prevent stuff crime."
+    ],
+    "budget": 133393375,
+    "country": "Japan",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 179,
+    "movie_title": "Hold young issue",
+    "release_date": "2018-10-22",
+    "movie_genre": "Fantasy",
+    "director": "Jillian Gould",
+    "actors": [
+      "Laura Martin",
+      "Maureen Brown"
+    ],
+    "rating": 4.0,
+    "description": "Ball just per. Minute third large case door need cause. Carry level good final.",
+    "duration": 123,
+    "reviews": [
+      "Another remain base right.",
+      "Entire leg condition line floor court approach."
+    ],
+    "budget": 43972725,
+    "country": "South Korea",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 180,
+    "movie_title": "Be section remain",
+    "release_date": "2021-08-06",
+    "movie_genre": "Romance",
+    "director": "Nicole Brewer",
+    "actors": [
+      "Brandy Kelley",
+      "Michael Skinner",
+      "Jennifer Thomas",
+      "Jason Martinez",
+      "Benjamin Daniel"
+    ],
+    "rating": 4.3,
+    "description": "Successful fire leader quickly against. Memory and him improve should plant. Finish cell my fast have.",
+    "duration": 143,
+    "reviews": [
+      "Side receive politics them.",
+      "Share Congress if live.",
+      "Notice organization entire view.",
+      "Research people sure five perhaps."
+    ],
+    "budget": 13442373,
+    "country": "USA",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 181,
+    "movie_title": "Film crime specific",
+    "release_date": "2021-04-06",
+    "movie_genre": "Romance",
+    "director": "Edward Bailey",
+    "actors": [
+      "Laura Ellis",
+      "Erica Hawkins"
+    ],
+    "rating": 4.7,
+    "description": "Training record generation argue either. Interest including against whose respond remain defense computer.",
+    "duration": 175,
+    "reviews": [
+      "Option real agree top like usually."
+    ],
+    "budget": 115728760,
+    "country": "USA",
+    "language": "Spanish",
+    "addFav": true
+  },
+  {
+    "id": 182,
+    "movie_title": "Leg environment",
+    "release_date": "2017-05-08",
+    "movie_genre": "Horror",
+    "director": "Darlene Dunn",
+    "actors": [
+      "Loretta Peterson",
+      "Victoria Schultz"
+    ],
+    "rating": 6.9,
+    "description": "Clearly nature behavior show never free only. Leader for life talk leave most.",
+    "duration": 163,
+    "reviews": [
+      "Before fly important clear field control."
+    ],
+    "budget": 176010077,
+    "country": "South Korea",
+    "language": "German",
+    "addFav": true
+  },
+  {
+    "id": 183,
+    "movie_title": "Form away return since",
+    "release_date": "2017-09-03",
+    "movie_genre": "Action",
+    "director": "Kathy Payne",
+    "actors": [
+      "Sylvia Chavez",
+      "Robin Munoz",
+      "Ashley Hughes"
+    ],
+    "rating": 3.2,
+    "description": "Ability public per fire upon war difference.",
+    "duration": 110,
+    "reviews": [
+      "Military safe not ten college resource marriage.",
+      "Bar everyone successful health.",
+      "Group already part agreement eight just rock."
+    ],
+    "budget": 90842263,
+    "country": "Canada",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 184,
+    "movie_title": "Set might",
+    "release_date": "2022-02-17",
+    "movie_genre": "Action",
+    "director": "Jason Stewart",
+    "actors": [
+      "Loretta Peterson",
+      "Antonio Brown",
+      "Cynthia Garcia",
+      "Laura Bradley"
+    ],
+    "rating": 9.5,
+    "description": "Center run program from think old some. Focus billion school factor girl.",
+    "duration": 135,
+    "reviews": [
+      "Main traditional school.",
+      "Land situation everything laugh way hospital.",
+      "Factor enough sport probably worker child.",
+      "Style without forget join responsibility."
+    ],
+    "budget": 193303737,
+    "country": "South Korea",
+    "language": "Japanese",
+    "addFav": false
+  },
+  {
+    "id": 185,
+    "movie_title": "Organization class",
+    "release_date": "2024-02-23",
+    "movie_genre": "Fantasy",
+    "director": "Kevin Washington",
+    "actors": [
+      "Victoria Schultz",
+      "Deanna Myers",
+      "Tyler Graham"
+    ],
+    "rating": 5.5,
+    "description": "When can national great return alone.",
+    "duration": 168,
+    "reviews": [
+      "Just want college by easy.",
+      "Mission focus fund authority policy south moment consumer.",
+      "Activity different list free be difficult become.",
+      "Soldier talk stage audience summer civil."
+    ],
+    "budget": 76392586,
+    "country": "South Korea",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 186,
+    "movie_title": "Space system",
+    "release_date": "2020-10-14",
+    "movie_genre": "Thriller",
+    "director": "Gloria Hensley",
+    "actors": [
+      "Brandon Perez",
+      "Karen Rose",
+      "Maureen Brown",
+      "Brandy Kelley",
+      "Jennifer Thomas"
+    ],
+    "rating": 3.1,
+    "description": "Court spring news positive clear. But world senior environment. The officer effect ability. Now short watch.",
+    "duration": 151,
+    "reviews": [
+      "Over PM day nearly.",
+      "Campaign sense organization with reduce.",
+      "Discuss decade house matter student."
+    ],
+    "budget": 19520461,
+    "country": "UK",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 187,
+    "movie_title": "Together white special",
+    "release_date": "2019-04-06",
+    "movie_genre": "Adventure",
+    "director": "Christine Stewart",
+    "actors": [
+      "Ian Griffin",
+      "Donald Rose",
+      "Pedro Alexander",
+      "Phillip Gray",
+      "Spencer Jones"
+    ],
+    "rating": 3.3,
+    "description": "Building eight high fine suggest night trial. Young dream east along time be.\nAlways seek in item. Point security TV organization.",
+    "duration": 88,
+    "reviews": [
+      "Meeting light enjoy student hit little health tonight.",
+      "Property feeling mind free explain require clearly.",
+      "Author total statement common and."
+    ],
+    "budget": 128391947,
+    "country": "Japan",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 188,
+    "movie_title": "Including quickly card",
+    "release_date": "2018-03-26",
+    "movie_genre": "Romance",
+    "director": "Katherine Wolfe",
+    "actors": [
+      "Ronald Bender",
+      "Laura Ellis",
+      "Deanna Myers",
+      "James Dunlap",
+      "Juan Munoz"
+    ],
+    "rating": 3.6,
+    "description": "Indeed describe laugh. Manage detail itself another. Position history reason skill who.",
+    "duration": 89,
+    "reviews": [
+      "Magazine employee situation these usually.",
+      "All student as voice house society.",
+      "War too whom think management party offer."
+    ],
+    "budget": 186571580,
+    "country": "USA",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 189,
+    "movie_title": "Response floor",
+    "release_date": "2025-04-27",
+    "movie_genre": "Action",
+    "director": "Mrs. Abigail Garcia",
+    "actors": [
+      "Donald Rose",
+      "Virginia Bell"
+    ],
+    "rating": 4.1,
+    "description": "Production third manager plan summer security heavy. Like bit music bar.\nNever computer director each performance energy. Through child PM American.",
+    "duration": 162,
+    "reviews": [
+      "Financial our teach state wear say.",
+      "Stage section upon large call many war.",
+      "If artist pressure poor treatment."
+    ],
+    "budget": 160349281,
+    "country": "Germany",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 190,
+    "movie_title": "Choose over fill",
+    "release_date": "2025-03-21",
+    "movie_genre": "Romance",
+    "director": "Stephanie Walters",
+    "actors": [
+      "Charlene Baker",
+      "Sara King"
+    ],
+    "rating": 4.8,
+    "description": "Civil ability follow. Yard protect yet image record. Market certainly body recently.",
+    "duration": 158,
+    "reviews": [
+      "Total style public hour than.",
+      "Participant dinner them once.",
+      "Bring fire modern reflect toward."
+    ],
+    "budget": 42823211,
+    "country": "Japan",
+    "language": "English",
+    "addFav": true
+  },
+  {
+    "id": 191,
+    "movie_title": "Book TV",
+    "release_date": "2017-09-23",
+    "movie_genre": "Action",
+    "director": "James Davis",
+    "actors": [
+      "Deanna Myers",
+      "Joseph Campbell",
+      "Juan Munoz"
+    ],
+    "rating": 7.8,
+    "description": "Special seek test attention. First capital indicate.\nRock current head information these. Us current nature reveal occur.",
+    "duration": 135,
+    "reviews": [
+      "Inside support author TV page.",
+      "Plan interview free source commercial front democratic.",
+      "Small material attention task myself body."
+    ],
+    "budget": 117266364,
+    "country": "Germany",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 192,
+    "movie_title": "Father per",
+    "release_date": "2023-12-29",
+    "movie_genre": "Sci-Fi",
+    "director": "Thomas Brown",
+    "actors": [
+      "Elizabeth Jackson",
+      "Jennifer Thomas"
+    ],
+    "rating": 4.2,
+    "description": "None great ready traditional support. Meeting image politics next.\nTechnology measure too box everyone forward. Church difference upon again.",
+    "duration": 165,
+    "reviews": [
+      "Course difficult improve authority technology skin cell.",
+      "Strong performance few.",
+      "Defense hear there yet film summer enjoy."
+    ],
+    "budget": 197739306,
+    "country": "UK",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 193,
+    "movie_title": "Pattern new relate",
+    "release_date": "2015-11-14",
+    "movie_genre": "Drama",
+    "director": "Peter Brown",
+    "actors": [
+      "Melanie Mccarty",
+      "Michael Skinner",
+      "Sylvia Chavez",
+      "Pedro Alexander"
+    ],
+    "rating": 9.4,
+    "description": "Brother still report month seat out. Decide site letter claim happy never soldier. Player conference decade walk population.",
+    "duration": 89,
+    "reviews": [
+      "Bag simply south project institution bring reason.",
+      "Consider into mean economy chance organization defense.",
+      "Send health how language particularly final easy.",
+      "Stay once morning degree."
+    ],
+    "budget": 192514255,
+    "country": "France",
+    "language": "Mandarin",
+    "addFav": true
+  },
+  {
+    "id": 194,
+    "movie_title": "Onto give",
+    "release_date": "2022-05-26",
+    "movie_genre": "Adventure",
+    "director": "Michael Roman",
+    "actors": [
+      "Barbara Trujillo",
+      "Juan Munoz",
+      "Laura Ellis",
+      "Erica Hawkins",
+      "Deanna Myers"
+    ],
+    "rating": 8.6,
+    "description": "American blue item. Open season along network able.",
+    "duration": 127,
+    "reviews": [
+      "Live church owner glass yeah instead."
+    ],
+    "budget": 178285347,
+    "country": "Germany",
+    "language": "Japanese",
+    "addFav": true
+  },
+  {
+    "id": 195,
+    "movie_title": "Yeah worker choice",
+    "release_date": "2023-05-01",
+    "movie_genre": "Horror",
+    "director": "Shelly Rodriguez",
+    "actors": [
+      "Ellen Evans",
+      "Laura Ellis",
+      "Mary Jones"
+    ],
+    "rating": 9.5,
+    "description": "Fund order surface consider watch move. Speak interesting huge player technology north loss.",
+    "duration": 81,
+    "reviews": [
+      "Get have might policy young nature.",
+      "Its anyone available oil.",
+      "Start off treat use team somebody heavy.",
+      "Until hit choose me probably middle."
+    ],
+    "budget": 186463626,
+    "country": "USA",
+    "language": "Korean",
+    "addFav": true
+  },
+  {
+    "id": 196,
+    "movie_title": "Add market last conference",
+    "release_date": "2020-02-05",
+    "movie_genre": "Action",
+    "director": "Timothy Morris",
+    "actors": [
+      "Barbara Trujillo",
+      "Victoria Schultz",
+      "Ronald Bender",
+      "Alexander Olson",
+      "Sara King"
+    ],
+    "rating": 3.2,
+    "description": "Treat specific claim. Six officer art arrive trouble.",
+    "duration": 132,
+    "reviews": [
+      "Dog gas administration although least.",
+      "Near less why state everything.",
+      "History society source section suddenly.",
+      "Brother almost write method simple green table."
+    ],
+    "budget": 78788910,
+    "country": "Japan",
+    "language": "French",
+    "addFav": false
+  },
+  {
+    "id": 197,
+    "movie_title": "Scene woman recognize",
+    "release_date": "2020-05-20",
+    "movie_genre": "Adventure",
+    "director": "Margaret Carter",
+    "actors": [
+      "Donald Rose",
+      "Loretta Peterson",
+      "Christopher Deleon",
+      "Brandy Kelley"
+    ],
+    "rating": 8.8,
+    "description": "Indicate room believe tax own bill public. Return democratic even international study seat card.",
+    "duration": 138,
+    "reviews": [
+      "Against possible main read.",
+      "Effort practice vote program writer event end.",
+      "Team true sure."
+    ],
+    "budget": 124111335,
+    "country": "UK",
+    "language": "Spanish",
+    "addFav": false
+  },
+  {
+    "id": 198,
+    "movie_title": "Whole camera across player",
+    "release_date": "2021-02-24",
+    "movie_genre": "Action",
+    "director": "Jonathan Johnston",
+    "actors": [
+      "Donna Sanders",
+      "Loretta Peterson",
+      "Alexander Olson",
+      "Robin Munoz"
+    ],
+    "rating": 5.9,
+    "description": "Performance phone factor woman visit. Speech billion movie picture good reveal.",
+    "duration": 150,
+    "reviews": [
+      "Indicate apply nation relationship sense week."
+    ],
+    "budget": 124152563,
+    "country": "Germany",
+    "language": "German",
+    "addFav": false
+  },
+  {
+    "id": 199,
+    "movie_title": "Congress sit effect really",
+    "release_date": "2016-05-30",
+    "movie_genre": "Action",
+    "director": "Michael Chaney",
+    "actors": [
+      "Mary Jones",
+      "Robin Munoz",
+      "Donna Sanders",
+      "James Dunlap"
+    ],
+    "rating": 7.4,
+    "description": "Agreement education industry small. Station return store believe. Accept poor ten woman. Expert across person hotel difference heavy of expect.",
+    "duration": 142,
+    "reviews": [
+      "Politics structure develop option employee."
+    ],
+    "budget": 198432166,
+    "country": "Germany",
+    "language": "Mandarin",
+    "addFav": false
+  },
+  {
+    "id": 200,
+    "movie_title": "Impact",
+    "release_date": "2017-12-13",
+    "movie_genre": "Romance",
+    "director": "Hayden Reed",
+    "actors": [
+      "Steven Phillips",
+      "Cynthia Garcia"
+    ],
+    "rating": 8.0,
+    "description": "History mission series indeed. Back live garden guess best. Research wrong compare couple.",
+    "duration": 108,
+    "reviews": [
+      "Full next people today western.",
+      "Number analysis street body stay.",
+      "Rich maybe serious."
+    ],
+    "budget": 1019854,
+    "country": "South Korea",
+    "language": "French",
+    "addFav": false
+  }
+]
