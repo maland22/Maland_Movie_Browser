@@ -10,6 +10,6 @@
   - Navbar.tsx       |Suchfeld, Filter ganz oben
 - hooks/
   - useMovies.ts	
-  - useFilters.ts	
+  - useDetailMovies.ts	
   - useFavorites.ts	
   - useSelectedMovie.ts
