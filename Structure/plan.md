@@ -4,12 +4,17 @@
   - model.ts
 - components/
   - MovieCard.tsx    |Einzelne "Filmkarte"
-  - MovieTable.tsx    |Grid mit 5 Filmkarten pro Reihe
+  - MovieTable.tsx    |Table 
   - MovieDetail.tsx	 |Zeigt Details von einer "Filkarte"
   - FavoriteList.tsx |Liste mit gespeicherten Filmen
-  - Navbar.tsx       |Suchfeld, Filter ganz oben
+  - Navbar.tsx |Suchfeld, Filter ganz oben
+  - FilteredGender.tsx
+  - FilteredNames.tsx
+  - FilteredYears.tsx
 - hooks/
-  - useMovies.ts	
-  - useDetailMovies.ts	
+  - useMovies.ts
   - useFavorites.ts	
   - useSelectedMovie.ts
+  - useFilterByGenre.ts
+  - useFilterByName.ts
+  - useFilterByYear.ts
