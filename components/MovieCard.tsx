@@ -1,30 +1,27 @@
 import React from 'react';
-import type {Movie} from "../common/model";
+import type {Movie} from '../common/model';
 
-
-interface MovieRowProps {
+interface MovieCardProps {
     movie: Movie;
-    details: (id: string) => void;
-    addFavorite: (id: string) => void;
+    onShowDetails: (movie: Movie) => void;
+    onToggleFavorite: (movie: Movie) => void;
+    isFavorite: (id: string) => boolean;
 }
 
-
-const MovieCard: React.FC<MovieRowProps> = ({ movie, details, addFavorite }) => {
+const MovieCard: React.FC<MovieCardProps> = ({ movie, onShowDetails, onToggleFavorite, isFavorite }) => {
     return (
-        <tr>
-            <td><img src={movie.poster_url}  /></td>
-            <td>{movie.title}</td>
-            <td>{movie.release_date}</td>
-            <td>{movie.genre}</td>
-            <td>{movie.director}</td>
-            <td>{movie.actors.join(", ")}</td>
-            <td>{movie.rating}</td>
-            <td>{movie.duration}</td>
-            <td>
-                <button onClick={() => addFavorite(movie.id)}>Fav</button>
-                <button onClick={() => details(movie.id)}>Details</button>
-            </td>
-        </tr>
+        <div>
+            <h3>{movie.movie_title} ({movie.release_date})</h3>
+            <p>{movie.movie_genre}</p>
+            <p>{movie.director}</p>
+            <p>{movie.rating}</p>
+            <div>
+                <button onClick={() => onShowDetails(movie)}>Details</button>
+                <button onClick={() => onToggleFavorite(movie)}>
+                    {isFavorite(movie.id) ? 'Remove' : 'Favourite'}
+                </button>
+            </div>
+        </div>
     );
 };
 

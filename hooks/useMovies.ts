@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
-import type { Movie } from "../common/model";
+import { useEffect, useState } from 'react';
+import type { Movie } from '../common/model';
 
 const useMovies = () => {
     const [movies, setMovies] = useState<Movie[]>([]);

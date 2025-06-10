@@ -1,0 +1,87 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+table th,
+table td {
+    padding: 20px 30px; /* oben/unten 12px, links/rechts 24px */
+    text-align: left;
+}
+tr:hover{
+    background-image: linear-gradient(to bottom right, #7999e9, #7dc5df);
+
+}
+th{
+    background-color: #7dc2e2;
+}
+p{
+    font-family: Calibri;
+}
+
+
+.table-container {
+
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+table {
+    border-collapse: collapse;
+
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.DetailedButton{
+    background-color: #535bf2;
+    opacity: 1;
+    border: 1.5px solid #33389a;
+    border-radius: 5px;
+    margin: 4px;
+    padding: 9px;
+    font-size: 15px;
+    color: white;
+
+
+}
+.DetailedButton:hover{
+    background-color: #44bcd1;
+    border-color: #246e56;
+    transition: background-color 0.3s ease;
+}
+.FavRemBtn.favorite {
+    background-color: #434bcb;
+    color: white;
+    border: 1.5px solid #222b8a;
+    border-radius: 5px;
+    margin: 4px;
+    padding: 9px;
+    font-size: 14px;
+}
+.FavRemBtn.favorite:hover {
+    background-color: #777df1;
+    border: 1.5px solid #33389a;
+    transition: background-color 0.3s ease;
+}
+.FavRemBtn.remove {
+    background-color: #434bcb;
+    color: white;
+    border: 1.5px solid #222b8a;
+    border-radius: 5px;
+    margin: 4px;
+    padding: 9px;
+    font-size: 14px;
+}
+
+.FavRemBtn.remove:hover {
+    background-color: #777df1;
+    border: 1.5px solid #33389a;
+    transition: background-color 0.3s ease;
+}

@@ -1,5 +1,5 @@
-import { useState } from "react";
-import type { Movie } from "../common/model";
+import { useState } from 'react';
+import type { Movie } from '../common/model';
 
 const useSelectedMovie = () => {
     const [selected, setSelected] = useState<Movie | null>(null);
